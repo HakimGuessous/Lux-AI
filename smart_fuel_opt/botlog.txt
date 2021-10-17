@@ -1,0 +1,1613 @@
+INFO:root:turn - 0, orders - [], solution - Optimal
+INFO:root:city_ids - []
+INFO:root:worker_pos - []
+INFO:root:supply - []
+INFO:root:demand - [234.6]
+INFO:root:value - [4]
+INFO:root:distance - [], weight to city - []
+INFO:root:__dummy: None
+INFO:root:turn - 1, orders - [], solution - Optimal
+INFO:root:turn - 2, orders - [], solution - Optimal
+INFO:root:turn - 3, orders - [], solution - Optimal
+INFO:root:turn - 4, orders - [], solution - Optimal
+INFO:root:turn - 5, orders - [], solution - Optimal
+INFO:root:turn - 6, orders - [], solution - Optimal
+INFO:root:turn - 7, orders - [], solution - Optimal
+INFO:root:turn - 8, orders - [], solution - Optimal
+INFO:root:turn - 9, orders - [], solution - Optimal
+INFO:root:turn - 10, orders - [], solution - Optimal
+INFO:root:turn - 11, orders - [], solution - Optimal
+INFO:root:turn - 12, orders - [], solution - Optimal
+INFO:root:turn - 13, orders - [], solution - Optimal
+INFO:root:turn - 14, orders - [], solution - Optimal
+INFO:root:turn - 15, orders - [], solution - Optimal
+INFO:root:turn - 16, orders - [], solution - Optimal
+INFO:root:turn - 17, orders - [], solution - Optimal
+INFO:root:turn - 18, orders - [], solution - Optimal
+INFO:root:turn - 19, orders - [], solution - Optimal
+INFO:root:turn - 20, orders - [[(13, 2), 'c_1'], [(11, 0), 'c_1']], solution - Optimal
+INFO:root:city_ids - ['c_1']
+INFO:root:worker_pos - [(13, 2), (11, 0)]
+INFO:root:supply - [100, 100]
+INFO:root:demand - [334.40000000000003]
+INFO:root:value - [4]
+INFO:root:distance - [[3.]
+ [0.]], weight to city - [[3.]
+ [0.]]
+INFO:root:Route_0_0: 100.0
+INFO:root:Route_1_0: 100.0
+INFO:root:Route_y_0_0: 1.0
+INFO:root:Route_y_1_0: 1.0
+INFO:root:Sum_of_fuel_out_of_worker_1: 0.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_0: -999900.0
+INFO:root:limit_workers_2_1_0: 99.0
+INFO:root:Sum_of_fuel_out_of_worker_0: 0.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_0: -999900.0
+INFO:root:limit_workers_2_0_0: 99.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -134.40000000000003
+INFO:root:turn - 21, orders - [[(12, 2), 'c_1']], solution - Optimal
+INFO:root:turn - 22, orders - [[(12, 2), 'c_1']], solution - Optimal
+INFO:root:turn - 23, orders - [[(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 24, orders - [[(12, 2), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 25, orders - [[(12, 2), 'c_1']], solution - Optimal
+INFO:root:turn - 26, orders - [], solution - Optimal
+INFO:root:turn - 27, orders - [], solution - Optimal
+INFO:root:turn - 28, orders - [], solution - Optimal
+INFO:root:turn - 29, orders - [], solution - Optimal
+INFO:root:turn - 30, orders - [], solution - Optimal
+INFO:root:turn - 31, orders - [], solution - Optimal
+INFO:root:turn - 32, orders - [[(11, 1), 'c_1'], [(13, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 33, orders - [[(11, 1), 'c_1'], [(13, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 34, orders - [[(11, 1), 'c_1'], [(13, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 35, orders - [], solution - Optimal
+INFO:root:turn - 36, orders - [], solution - Optimal
+INFO:root:turn - 37, orders - [[(12, 2), 'c_1']], solution - Optimal
+INFO:root:turn - 38, orders - [[(12, 2), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 39, orders - [[(12, 2), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 40, orders - [[(13, 1), 'c_1']], solution - Optimal
+INFO:root:city_ids - ['c_1']
+INFO:root:worker_pos - [(13, 1)]
+INFO:root:supply - [64]
+INFO:root:demand - [100]
+INFO:root:value - [4]
+INFO:root:distance - [[0.]], weight to city - [[0.]]
+INFO:root:Route_0_0: 64.0
+INFO:root:Route_y_0_0: 1.0
+INFO:root:Sum_of_fuel_out_of_worker_0: 0.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_0: -999936.0
+INFO:root:limit_workers_2_0_0: 63.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -36.0
+INFO:root:turn - 41, orders - [], solution - Optimal
+INFO:root:turn - 42, orders - [], solution - Optimal
+INFO:root:turn - 43, orders - [], solution - Optimal
+INFO:root:turn - 44, orders - [], solution - Optimal
+INFO:root:turn - 45, orders - [], solution - Optimal
+INFO:root:turn - 46, orders - [], solution - Optimal
+INFO:root:turn - 47, orders - [], solution - Optimal
+INFO:root:turn - 48, orders - [], solution - Optimal
+INFO:root:turn - 49, orders - [], solution - Optimal
+INFO:root:turn - 50, orders - [[(11, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 51, orders - [[(11, 1), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 52, orders - [[(12, 2), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 53, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 54, orders - [], solution - Optimal
+INFO:root:turn - 55, orders - [], solution - Optimal
+INFO:root:turn - 56, orders - [], solution - Optimal
+INFO:root:turn - 57, orders - [], solution - Optimal
+INFO:root:turn - 58, orders - [], solution - Optimal
+INFO:root:turn - 59, orders - [], solution - Optimal
+INFO:root:turn - 60, orders - [], solution - Optimal
+INFO:root:city_ids - ['c_4']
+INFO:root:worker_pos - [(10, 1), (10, 0), (14, 1)]
+INFO:root:supply - [100, 100, 100]
+INFO:root:demand - [234.6]
+INFO:root:value - [4]
+INFO:root:distance - [[99999.]
+ [99999.]
+ [99999.]], weight to city - [[99999.]
+ [99999.]
+ [99999.]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -100.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -100.0
+INFO:root:workers_y_contraint_1: -1.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -100.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -234.6
+INFO:root:turn - 61, orders - [[(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 62, orders - [[(11, 1), 'c_1'], [(14, 0), 'c_1'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 63, orders - [[(12, 2), 'c_4'], [(11, 1), 'c_1'], [(14, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 64, orders - [[(13, 2), 'c_4'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 65, orders - [[(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 66, orders - [[(13, 3), 'c_4'], [(12, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 67, orders - [[(13, 3), 'c_4'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 68, orders - [[(13, 4), 'c_4'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 69, orders - [[(13, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 70, orders - [[(11, 3), 'c_4'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 71, orders - [[(11, 4), 'c_4'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 72, orders - [[(11, 1), 'c_1'], [(13, 1), 'c_1'], [(11, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 73, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1'], [(11, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 74, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1'], [(11, 4), 'c_4'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 75, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 76, orders - [[(12, 3), 'c_4'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 77, orders - [[(13, 1), 'c_1'], [(12, 2), 'c_1']], solution - Optimal
+INFO:root:turn - 78, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 79, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 80, orders - [[(12, 2), 'c_1'], [(11, 1), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:city_ids - ['c_4', 'c_1']
+INFO:root:worker_pos - [(12, 2), (11, 1), (13, 1)]
+INFO:root:supply - [96, 64, 32]
+INFO:root:demand - [100, 267.0]
+INFO:root:value - [4, 4]
+INFO:root:distance - [[3. 0.]
+ [9. 0.]
+ [9. 0.]], weight to city - [[3. 0.]
+ [9. 0.]
+ [9. 0.]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 96.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 64.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_2_1: 32.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 1.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 1.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_2_1: 1.0
+INFO:root:Sum_of_fuel_out_of_worker_1: 0.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_1: -999936.0
+INFO:root:limit_workers_2_1_1: 63.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: 0.0
+INFO:root:workers_y_contraint_2: 0.0
+INFO:root:limit_workers_1_2_1: -999968.0
+INFO:root:limit_workers_2_2_1: 31.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: 0.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_1: -999904.0
+INFO:root:limit_workers_2_0_1: 95.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -75.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -100.0
+INFO:root:turn - 81, orders - [[(13, 1), 'c_1'], [(11, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 82, orders - [[(11, 1), 'c_1'], [(12, 2), 'c_1'], [(13, 1), 'c_1']], solution - Optimal
+INFO:root:turn - 83, orders - [[(12, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 84, orders - [[(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 85, orders - [[(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 86, orders - [], solution - Optimal
+INFO:root:turn - 87, orders - [], solution - Optimal
+INFO:root:turn - 88, orders - [], solution - Optimal
+INFO:root:turn - 89, orders - [], solution - Optimal
+INFO:root:turn - 90, orders - [], solution - Optimal
+INFO:root:turn - 91, orders - [], solution - Optimal
+INFO:root:turn - 92, orders - [], solution - Optimal
+INFO:root:turn - 93, orders - [], solution - Optimal
+INFO:root:turn - 94, orders - [], solution - Optimal
+INFO:root:turn - 95, orders - [], solution - Optimal
+INFO:root:turn - 96, orders - [], solution - Optimal
+INFO:root:turn - 97, orders - [[(12, 6), 'c_4'], [(11, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 98, orders - [[(10, 4), 'c_4'], [(11, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 99, orders - [], solution - Optimal
+INFO:root:turn - 100, orders - [], solution - Optimal
+INFO:root:city_ids - []
+INFO:root:worker_pos - [(10, 5), (11, 4), (11, 6), (11, 5), (12, 6), (12, 7)]
+INFO:root:supply - [100, 100, 100, 40, 20, 20]
+INFO:root:demand - []
+INFO:root:value - []
+INFO:root:distance - [], weight to city - []
+INFO:root:__dummy: None
+INFO:root:Sum_of_fuel_out_of_worker_3: -40
+INFO:root:workers_y_contraint_3: -1
+INFO:root:Sum_of_fuel_out_of_worker_2: -100
+INFO:root:workers_y_contraint_2: -1
+INFO:root:Sum_of_fuel_out_of_worker_0: -100
+INFO:root:workers_y_contraint_0: -1
+INFO:root:Sum_of_fuel_out_of_worker_5: -20
+INFO:root:workers_y_contraint_5: -1
+INFO:root:Sum_of_fuel_out_of_worker_4: -20
+INFO:root:workers_y_contraint_4: -1
+INFO:root:Sum_of_fuel_out_of_worker_1: -100
+INFO:root:workers_y_contraint_1: -1
+INFO:root:turn - 101, orders - [], solution - Optimal
+INFO:root:turn - 102, orders - [[(10, 4), 'c_4'], [(11, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 103, orders - [[(10, 4), 'c_4'], [(12, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 104, orders - [], solution - Optimal
+INFO:root:turn - 105, orders - [], solution - Optimal
+INFO:root:turn - 106, orders - [], solution - Optimal
+INFO:root:turn - 107, orders - [], solution - Optimal
+INFO:root:turn - 108, orders - [], solution - Optimal
+INFO:root:turn - 109, orders - [], solution - Optimal
+INFO:root:turn - 110, orders - [], solution - Optimal
+INFO:root:turn - 111, orders - [], solution - Optimal
+INFO:root:turn - 112, orders - [[(10, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 113, orders - [[(10, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 114, orders - [[(10, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 115, orders - [[(11, 6), 'c_4'], [(10, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 116, orders - [[(11, 6), 'c_4'], [(11, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 117, orders - [[(11, 5), 'c_4'], [(12, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 118, orders - [[(12, 6), 'c_4'], [(11, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 119, orders - [[(12, 6), 'c_4'], [(11, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 120, orders - [[(10, 6), 'c_4'], [(11, 7), 'c_4'], [(12, 6), 'c_4']], solution - Optimal
+INFO:root:city_ids - ['c_4', 'c_1']
+INFO:root:worker_pos - [(10, 7), (9, 6), (10, 6), (11, 7), (12, 6), (12, 8)]
+INFO:root:supply - [96, 96, 96, 96, 96, 96]
+INFO:root:demand - [319.4, 738.0]
+INFO:root:value - [4, 4]
+INFO:root:distance - [[21. 30.]
+ [ 9. 18.]
+ [ 6. 15.]
+ [ 6. 21.]
+ [ 0. 18.]
+ [12. 24.]], weight to city - [[21. 30.]
+ [ 9. 18.]
+ [ 6. 15.]
+ [ 6. 21.]
+ [ 0. 18.]
+ [12. 24.]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 0.0
+INFO:root:Route_2_0: 96.0
+INFO:root:Route_2_1: 0.0
+INFO:root:Route_3_0: 96.0
+INFO:root:Route_3_1: 0.0
+INFO:root:Route_4_0: 96.0
+INFO:root:Route_4_1: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_5_1: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 0.0
+INFO:root:Route_y_2_0: 1.0
+INFO:root:Route_y_2_1: 0.0
+INFO:root:Route_y_3_0: 1.0
+INFO:root:Route_y_3_1: 0.0
+INFO:root:Route_y_4_0: 1.0
+INFO:root:Route_y_4_1: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_5_1: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -96.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_1: 0.0
+INFO:root:limit_workers_2_5_1: 0.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: 0.0
+INFO:root:workers_y_contraint_4: 0.0
+INFO:root:limit_workers_1_4_1: 0.0
+INFO:root:limit_workers_2_4_1: 0.0
+INFO:root:limit_workers_1_4_0: -999904.0
+INFO:root:limit_workers_2_4_0: 95.0
+INFO:root:Sum_of_fuel_out_of_worker_3: 0.0
+INFO:root:workers_y_contraint_3: 0.0
+INFO:root:limit_workers_1_3_1: 0.0
+INFO:root:limit_workers_2_3_1: 0.0
+INFO:root:limit_workers_1_3_0: -999904.0
+INFO:root:limit_workers_2_3_0: 95.0
+INFO:root:Sum_of_fuel_out_of_worker_2: 0.0
+INFO:root:workers_y_contraint_2: 0.0
+INFO:root:limit_workers_1_2_1: 0.0
+INFO:root:limit_workers_2_2_1: 0.0
+INFO:root:limit_workers_1_2_0: -999904.0
+INFO:root:limit_workers_2_2_0: 95.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -96.0
+INFO:root:workers_y_contraint_1: -1.0
+INFO:root:limit_workers_1_1_1: 0.0
+INFO:root:limit_workers_2_1_1: 0.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -96.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -738.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -31.399999999999977
+INFO:root:turn - 121, orders - [[(11, 6), 'c_4'], [(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 122, orders - [[(11, 6), 'c_4'], [(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 123, orders - [[(11, 5), 'c_4'], [(12, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 124, orders - [[(11, 5), 'c_4'], [(12, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 125, orders - [[(9, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 126, orders - [[(9, 5), 'c_6'], [(10, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 127, orders - [[(9, 6), 'c_6'], [(9, 7), 'c_6'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 128, orders - [[(9, 6), 'c_6'], [(10, 5), 'c_4'], [(9, 7), 'c_6'], [(11, 6), 'c_4'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 129, orders - [[(8, 6), 'c_6'], [(11, 7), 'c_5'], [(11, 6), 'c_4'], [(11, 5), 'c_4'], [(12, 7), 'c_5']], solution - Optimal
+INFO:root:turn - 130, orders - [[(8, 6), 'c_6'], [(12, 6), 'c_4'], [(11, 5), 'c_4'], [(13, 7), 'c_5'], [(9, 7), 'c_6'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 131, orders - [[(9, 8), 'c_6'], [(9, 7), 'c_6'], [(13, 7), 'c_5'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 132, orders - [[(10, 7), 'c_5'], [(9, 7), 'c_6']], solution - Optimal
+INFO:root:turn - 133, orders - [[(9, 7), 'c_6'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 134, orders - [[(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 135, orders - [[(11, 7), 'c_5']], solution - Optimal
+INFO:root:turn - 136, orders - [[(10, 6), 'c_4'], [(11, 6), 'c_4'], [(12, 7), 'c_5'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 137, orders - [[(11, 6), 'c_4'], [(13, 7), 'c_5'], [(12, 8), 'c_5'], [(10, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 138, orders - [[(12, 8), 'c_5'], [(13, 7), 'c_5']], solution - Optimal
+INFO:root:turn - 139, orders - [], solution - Optimal
+INFO:root:turn - 140, orders - [], solution - Optimal
+INFO:root:city_ids - ['c_1']
+INFO:root:worker_pos - [(10, 6), (9, 7), (12, 6), (8, 6), (9, 6), (12, 8), (10, 5), (9, 8)]
+INFO:root:supply - [100, 100, 100, 100, 100, 100, 80, 60]
+INFO:root:demand - [738.0]
+INFO:root:value - [4]
+INFO:root:distance - [[99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]], weight to city - [[99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_4_0: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_6_0: 0.0
+INFO:root:Route_7_0: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_4_0: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_6_0: 0.0
+INFO:root:Route_y_7_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_7: -60.0
+INFO:root:workers_y_contraint_7: -1.0
+INFO:root:limit_workers_1_7_0: 0.0
+INFO:root:limit_workers_2_7_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_6: -80.0
+INFO:root:workers_y_contraint_6: -1.0
+INFO:root:limit_workers_1_6_0: 0.0
+INFO:root:limit_workers_2_6_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -100.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: -100.0
+INFO:root:workers_y_contraint_3: -1.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -100.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -100.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -100.0
+INFO:root:workers_y_contraint_1: -1.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: -100.0
+INFO:root:workers_y_contraint_4: -1.0
+INFO:root:limit_workers_1_4_0: 0.0
+INFO:root:limit_workers_2_4_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -738.0
+INFO:root:turn - 141, orders - [[(9, 7), 'c_6'], [(9, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 142, orders - [[(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 143, orders - [], solution - Optimal
+INFO:root:turn - 144, orders - [[(11, 6), 'c_4'], [(12, 7), 'c_4'], [(14, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 145, orders - [[(14, 0), 'c_1'], [(9, 5), 'c_6']], solution - Optimal
+INFO:root:turn - 146, orders - [[(9, 6), 'c_6'], [(8, 0), 'c_1'], [(9, 8), 'c_6']], solution - Optimal
+INFO:root:turn - 147, orders - [[(8, 0), 'c_1'], [(9, 6), 'c_6'], [(14, 0), 'c_1'], [(9, 8), 'c_6']], solution - Optimal
+INFO:root:turn - 148, orders - [[(9, 0), 'c_1'], [(14, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 149, orders - [[(9, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 150, orders - [[(14, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 151, orders - [[(12, 7), 'c_4'], [(14, 0), 'c_1'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 152, orders - [[(9, 6), 'c_6'], [(9, 8), 'c_6'], [(10, 6), 'c_4'], [(11, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 153, orders - [[(9, 6), 'c_4'], [(10, 6), 'c_4'], [(11, 6), 'c_4'], [(14, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 154, orders - [[(9, 6), 'c_6'], [(14, 0), 'c_1'], [(10, 6), 'c_4'], [(11, 6), 'c_4'], [(12, 8), 'c_5'], [(9, 7), 'c_6'], [(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 155, orders - [[(14, 0), 'c_1'], [(11, 7), 'c_4'], [(9, 7), 'c_6'], [(12, 7), 'c_4'], [(9, 8), 'c_6'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 156, orders - [[(14, 0), 'c_1'], [(9, 7), 'c_6'], [(12, 7), 'c_4'], [(9, 8), 'c_6'], [(12, 8), 'c_5']], solution - Optimal
+INFO:root:turn - 157, orders - [[(11, 7), 'c_4'], [(11, 8), 'c_5'], [(9, 8), 'c_6'], [(10, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 158, orders - [[(12, 7), 'c_4'], [(12, 8), 'c_5'], [(10, 6), 'c_4'], [(14, 0), 'c_1']], solution - Optimal
+INFO:root:turn - 159, orders - [[(12, 7), 'c_4'], [(12, 8), 'c_5'], [(10, 6), 'c_4'], [(9, 7), 'c_6']], solution - Optimal
+INFO:root:turn - 160, orders - [[(14, 0), 'c_4'], [(12, 7), 'c_4'], [(12, 8), 'c_5'], [(9, 7), 'c_6'], [(9, 8), 'c_6']], solution - Optimal
+INFO:root:city_ids - ['c_6', 'c_5', 'c_4']
+INFO:root:worker_pos - [(14, 0), (12, 7), (12, 8), (9, 7), (9, 8), (11, 7)]
+INFO:root:supply - [120, 84, 84, 48, 32, 20]
+INFO:root:demand - [125.39999999999998, 122.6, 505.4]
+INFO:root:value - [4, 4, 4]
+INFO:root:distance - [[3.6000e+00 2.4000e+00 1.5000e+00]
+ [9.9999e+04 3.0000e+00 0.0000e+00]
+ [9.9999e+04 0.0000e+00 9.9999e+04]
+ [0.0000e+00 9.9999e+04 6.0000e+00]
+ [0.0000e+00 9.9999e+04 2.7000e+01]
+ [9.0000e+00 9.9999e+04 3.0000e+00]], weight to city - [[3.6000e+01 2.4000e+01 1.5000e+01]
+ [9.9999e+04 3.0000e+00 0.0000e+00]
+ [9.9999e+04 0.0000e+00 9.9999e+04]
+ [0.0000e+00 9.9999e+04 6.0000e+00]
+ [0.0000e+00 9.9999e+04 2.7000e+01]
+ [9.0000e+00 9.9999e+04 3.0000e+00]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_0_2: 120.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 0.0
+INFO:root:Route_1_2: 84.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_2_1: 84.0
+INFO:root:Route_2_2: 0.0
+INFO:root:Route_3_0: 48.0
+INFO:root:Route_3_1: 0.0
+INFO:root:Route_3_2: 0.0
+INFO:root:Route_4_0: 32.0
+INFO:root:Route_4_1: 0.0
+INFO:root:Route_4_2: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_5_1: 0.0
+INFO:root:Route_5_2: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_0_2: 1.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 0.0
+INFO:root:Route_y_1_2: 1.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_2_1: 1.0
+INFO:root:Route_y_2_2: 0.0
+INFO:root:Route_y_3_0: 1.0
+INFO:root:Route_y_3_1: 0.0
+INFO:root:Route_y_3_2: 0.0
+INFO:root:Route_y_4_0: 1.0
+INFO:root:Route_y_4_1: 0.0
+INFO:root:Route_y_4_2: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_5_1: 0.0
+INFO:root:Route_y_5_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -20.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_2: 0.0
+INFO:root:limit_workers_2_5_2: 0.0
+INFO:root:limit_workers_1_5_1: 0.0
+INFO:root:limit_workers_2_5_1: 0.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: 0.0
+INFO:root:workers_y_contraint_3: 0.0
+INFO:root:limit_workers_1_3_2: 0.0
+INFO:root:limit_workers_2_3_2: 0.0
+INFO:root:limit_workers_1_3_1: 0.0
+INFO:root:limit_workers_2_3_1: 0.0
+INFO:root:limit_workers_1_3_0: -999952.0
+INFO:root:limit_workers_2_3_0: 47.0
+INFO:root:Sum_of_fuel_out_of_worker_0: 0.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_2: -999880.0
+INFO:root:limit_workers_2_0_2: 119.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: 0.0
+INFO:root:workers_y_contraint_4: 0.0
+INFO:root:limit_workers_1_4_2: 0.0
+INFO:root:limit_workers_2_4_2: 0.0
+INFO:root:limit_workers_1_4_1: 0.0
+INFO:root:limit_workers_2_4_1: 0.0
+INFO:root:limit_workers_1_4_0: -999968.0
+INFO:root:limit_workers_2_4_0: 31.0
+INFO:root:Sum_of_fuel_out_of_worker_2: 0.0
+INFO:root:workers_y_contraint_2: 0.0
+INFO:root:limit_workers_1_2_2: 0.0
+INFO:root:limit_workers_2_2_2: 0.0
+INFO:root:limit_workers_1_2_1: -999916.0
+INFO:root:limit_workers_2_2_1: 83.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: 0.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_2: -999916.0
+INFO:root:limit_workers_2_1_2: 83.0
+INFO:root:limit_workers_1_1_1: 0.0
+INFO:root:limit_workers_2_1_1: 0.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_2: -301.4
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -38.599999999999994
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -45.39999999999998
+INFO:root:turn - 161, orders - [[(14, 0), 'c_4'], [(12, 7), 'c_4'], [(12, 8), 'c_5'], [(9, 7), 'c_6'], [(9, 8), 'c_6'], [(11, 7), 'c_4'], [(10, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 162, orders - [[(14, 1), 'c_4'], [(9, 8), 'c_6'], [(11, 7), 'c_4'], [(10, 6), 'c_4']], solution - Optimal
+INFO:root:turn - 163, orders - [[(14, 1), 'c_4'], [(11, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 164, orders - [[(14, 2), 'c_4'], [(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 165, orders - [[(14, 2), 'c_4'], [(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 166, orders - [[(14, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 167, orders - [[(14, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 168, orders - [[(14, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 169, orders - [[(14, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 170, orders - [[(13, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 171, orders - [[(13, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 172, orders - [], solution - Optimal
+INFO:root:turn - 173, orders - [[(7, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 174, orders - [[(7, 2), 'c_4'], [(8, 1), 'c_4']], solution - Optimal
+INFO:root:turn - 175, orders - [[(8, 2), 'c_4'], [(8, 1), 'c_4']], solution - Optimal
+INFO:root:turn - 176, orders - [[(8, 2), 'c_4'], [(9, 1), 'c_4']], solution - Optimal
+INFO:root:turn - 177, orders - [[(8, 3), 'c_4'], [(9, 1), 'c_4'], [(3, 5), 'c_7']], solution - Optimal
+INFO:root:turn - 178, orders - [[(8, 3), 'c_4'], [(10, 1), 'c_4'], [(4, 5), 'c_7'], [(12, 7), 'c_4'], [(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 179, orders - [[(8, 4), 'c_4'], [(10, 1), 'c_4'], [(4, 5), 'c_7'], [(3, 7), 'c_7'], [(12, 7), 'c_4']], solution - Optimal
+INFO:root:turn - 180, orders - [[(8, 4), 'c_4'], [(10, 2), 'c_4'], [(4, 6), 'c_7']], solution - Optimal
+INFO:root:city_ids - ['c_7', 'c_5', 'c_4']
+INFO:root:worker_pos - [(8, 4), (10, 2), (4, 6), (7, 2), (6, 8)]
+INFO:root:supply - [100, 100, 100, 100, 25]
+INFO:root:demand - [194.6, 100, 108.39999999999998]
+INFO:root:value - [4, 4, 4]
+INFO:root:distance - [[9.9999e+03 9.9999e+03 3.0000e-01]
+ [9.9999e+03 9.9999e+03 3.0000e-01]
+ [0.0000e+00 9.9999e+04 9.9999e+04]
+ [9.9999e+03 9.9999e+03 1.4000e+00]
+ [6.0000e+00 9.9999e+04 9.9999e+04]], weight to city - [[9.9999e+04 9.9999e+04 3.0000e+00]
+ [9.9999e+04 9.9999e+04 3.0000e+00]
+ [0.0000e+00 9.9999e+04 9.9999e+04]
+ [9.9999e+04 9.9999e+04 1.4000e+01]
+ [6.0000e+00 9.9999e+04 9.9999e+04]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_0_2: 8.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 0.0
+INFO:root:Route_1_2: 100.0
+INFO:root:Route_2_0: 100.0
+INFO:root:Route_2_1: 0.0
+INFO:root:Route_2_2: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_3_1: 0.0
+INFO:root:Route_3_2: 0.0
+INFO:root:Route_4_0: 0.0
+INFO:root:Route_4_1: 0.0
+INFO:root:Route_4_2: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_0_2: 1.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 0.0
+INFO:root:Route_y_1_2: 1.0
+INFO:root:Route_y_2_0: 1.0
+INFO:root:Route_y_2_1: 0.0
+INFO:root:Route_y_2_2: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_3_1: 0.0
+INFO:root:Route_y_3_2: 0.0
+INFO:root:Route_y_4_0: 0.0
+INFO:root:Route_y_4_1: 0.0
+INFO:root:Route_y_4_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: -25.0
+INFO:root:workers_y_contraint_4: -1.0
+INFO:root:limit_workers_1_4_2: 0.0
+INFO:root:limit_workers_2_4_2: 0.0
+INFO:root:limit_workers_1_4_1: 0.0
+INFO:root:limit_workers_2_4_1: 0.0
+INFO:root:limit_workers_1_4_0: 0.0
+INFO:root:limit_workers_2_4_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: -100.0
+INFO:root:workers_y_contraint_3: -1.0
+INFO:root:limit_workers_1_3_2: 0.0
+INFO:root:limit_workers_2_3_2: 0.0
+INFO:root:limit_workers_1_3_1: 0.0
+INFO:root:limit_workers_2_3_1: 0.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: 0.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_2: -999900.0
+INFO:root:limit_workers_2_1_2: 99.0
+INFO:root:limit_workers_1_1_1: 0.0
+INFO:root:limit_workers_2_1_1: 0.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -92.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_2: -999992.0
+INFO:root:limit_workers_2_0_2: 7.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: 0.0
+INFO:root:workers_y_contraint_2: 0.0
+INFO:root:limit_workers_1_2_2: 0.0
+INFO:root:limit_workers_2_2_2: 0.0
+INFO:root:limit_workers_1_2_1: 0.0
+INFO:root:limit_workers_2_2_1: 0.0
+INFO:root:limit_workers_1_2_0: -999900.0
+INFO:root:limit_workers_2_2_0: 99.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_2: -0.39999999999997726
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -100.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -94.6
+INFO:root:turn - 181, orders - [[(9, 4), 'c_4'], [(10, 2), 'c_4'], [(4, 6), 'c_7'], [(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 182, orders - [[(9, 4), 'c_4'], [(10, 3), 'c_4'], [(3, 7), 'c_7'], [(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 183, orders - [[(10, 3), 'c_4'], [(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 184, orders - [[(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 185, orders - [[(3, 7), 'c_7'], [(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 186, orders - [], solution - Optimal
+INFO:root:turn - 187, orders - [], solution - Optimal
+INFO:root:turn - 188, orders - [], solution - Optimal
+INFO:root:turn - 189, orders - [], solution - Optimal
+INFO:root:turn - 190, orders - [], solution - Optimal
+INFO:root:turn - 191, orders - [], solution - Optimal
+INFO:root:turn - 192, orders - [[(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 193, orders - [[(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 194, orders - [[(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 195, orders - [], solution - Optimal
+INFO:root:turn - 196, orders - [], solution - Optimal
+INFO:root:turn - 197, orders - [[(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 198, orders - [[(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 199, orders - [[(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 200, orders - [[(7, 2), 'c_4'], [(3, 5), 'c_7'], [(4, 6), 'c_7']], solution - Optimal
+INFO:root:city_ids - ['c_7', 'c_6', 'c_4']
+INFO:root:worker_pos - [(7, 2), (3, 5), (2, 5), (3, 9), (4, 6)]
+INFO:root:supply - [990, 96, 96, 96, 32]
+INFO:root:demand - [100, 475.4, 718.4]
+INFO:root:value - [4, 4, 4]
+INFO:root:distance - [[ 2.1  1.2  1.2]
+ [ 6.  15.  18. ]
+ [ 9.  24.  24. ]
+ [ 6.  15.  30. ]
+ [ 0.   9.  18. ]], weight to city - [[21. 12. 12.]
+ [ 6. 15. 18.]
+ [ 9. 24. 24.]
+ [ 6. 15. 30.]
+ [ 0.  9. 18.]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_0_2: 718.0
+INFO:root:Route_1_0: 68.0
+INFO:root:Route_1_1: 0.0
+INFO:root:Route_1_2: 0.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_2_1: 0.0
+INFO:root:Route_2_2: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_3_1: 0.0
+INFO:root:Route_3_2: 0.0
+INFO:root:Route_4_0: 32.0
+INFO:root:Route_4_1: 0.0
+INFO:root:Route_4_2: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_0_2: 1.0
+INFO:root:Route_y_1_0: 1.0
+INFO:root:Route_y_1_1: 0.0
+INFO:root:Route_y_1_2: 0.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_2_1: 0.0
+INFO:root:Route_y_2_2: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_3_1: 0.0
+INFO:root:Route_y_3_2: 0.0
+INFO:root:Route_y_4_0: 1.0
+INFO:root:Route_y_4_1: 0.0
+INFO:root:Route_y_4_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -272.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_2: -999282.0
+INFO:root:limit_workers_2_0_2: 717.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: -96.0
+INFO:root:workers_y_contraint_3: -1.0
+INFO:root:limit_workers_1_3_2: 0.0
+INFO:root:limit_workers_2_3_2: 0.0
+INFO:root:limit_workers_1_3_1: 0.0
+INFO:root:limit_workers_2_3_1: 0.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -96.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_2: 0.0
+INFO:root:limit_workers_2_2_2: 0.0
+INFO:root:limit_workers_1_2_1: 0.0
+INFO:root:limit_workers_2_2_1: 0.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -28.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_2: 0.0
+INFO:root:limit_workers_2_1_2: 0.0
+INFO:root:limit_workers_1_1_1: 0.0
+INFO:root:limit_workers_2_1_1: 0.0
+INFO:root:limit_workers_1_1_0: -999932.0
+INFO:root:limit_workers_2_1_0: 67.0
+INFO:root:Sum_of_fuel_out_of_worker_4: 0.0
+INFO:root:workers_y_contraint_4: 0.0
+INFO:root:limit_workers_1_4_2: 0.0
+INFO:root:limit_workers_2_4_2: 0.0
+INFO:root:limit_workers_1_4_1: 0.0
+INFO:root:limit_workers_2_4_1: 0.0
+INFO:root:limit_workers_1_4_0: -999968.0
+INFO:root:limit_workers_2_4_0: 31.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_2: -0.39999999999997726
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -475.4
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: 0.0
+INFO:root:turn - 201, orders - [[(8, 2), 'c_4'], [(4, 6), 'c_7'], [(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 202, orders - [[(8, 2), 'c_4'], [(4, 6), 'c_7'], [(3, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 203, orders - [[(9, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 204, orders - [[(9, 2), 'c_4'], [(4, 8), 'c_6']], solution - Optimal
+INFO:root:turn - 205, orders - [[(10, 2), 'c_4'], [(4, 8), 'c_6']], solution - Optimal
+INFO:root:turn - 206, orders - [[(10, 2), 'c_4'], [(3, 6), 'c_9'], [(4, 5), 'c_9'], [(5, 8), 'c_6']], solution - Optimal
+INFO:root:turn - 207, orders - [[(11, 2), 'c_4'], [(3, 5), 'c_9'], [(5, 8), 'c_6'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 208, orders - [[(11, 2), 'c_4'], [(3, 5), 'c_9'], [(6, 8), 'c_6'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 209, orders - [[(11, 3), 'c_4'], [(2, 5), 'c_9'], [(6, 8), 'c_6']], solution - Optimal
+INFO:root:turn - 210, orders - [[(11, 3), 'c_4'], [(3, 5), 'c_9'], [(7, 8), 'c_6'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 211, orders - [[(3, 5), 'c_9'], [(7, 8), 'c_6'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 212, orders - [[(2, 5), 'c_9']], solution - Optimal
+INFO:root:turn - 213, orders - [[(3, 5), 'c_9'], [(7, 2), 'c_6'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 214, orders - [[(7, 2), 'c_6'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 215, orders - [[(7, 3), 'c_6']], solution - Optimal
+INFO:root:turn - 216, orders - [[(7, 3), 'c_6']], solution - Optimal
+INFO:root:turn - 217, orders - [[(8, 3), 'c_6']], solution - Optimal
+INFO:root:turn - 218, orders - [[(8, 3), 'c_6'], [(4, 6), 'c_6'], [(7, 2), 'c_6']], solution - Optimal
+INFO:root:turn - 219, orders - [[(7, 2), 'c_6'], [(8, 4), 'c_6'], [(4, 6), 'c_6'], [(1, 3), 'c_9'], [(3, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 220, orders - [[(7, 3), 'c_6'], [(8, 4), 'c_6'], [(5, 6), 'c_6'], [(3, 4), 'c_9']], solution - Optimal
+INFO:root:city_ids - ['c_9', 'c_6']
+INFO:root:worker_pos - [(8, 1), (14, 0), (7, 3), (8, 4), (5, 6), (1, 7), (3, 5), (3, 4)]
+INFO:root:supply - [350, 250, 100, 100, 100, 100, 100, 100]
+INFO:root:demand - [100, 375.4]
+INFO:root:value - [4, 4]
+INFO:root:distance - [[9.9999e+03 9.9999e+03]
+ [9.9999e+03 9.9999e+03]
+ [9.9999e+03 9.0000e-01]
+ [9.9999e+03 3.0000e-01]
+ [9.9999e+04 6.0000e+00]
+ [1.4000e+01 9.9999e+04]
+ [6.0000e+00 9.9999e+04]
+ [0.0000e+00 9.9999e+04]], weight to city - [[9.9999e+04 9.9999e+04]
+ [9.9999e+04 9.9999e+04]
+ [9.9999e+04 9.0000e+00]
+ [9.9999e+04 3.0000e+00]
+ [9.9999e+04 6.0000e+00]
+ [1.4000e+01 9.9999e+04]
+ [6.0000e+00 9.9999e+04]
+ [0.0000e+00 9.9999e+04]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 0.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_2_1: 100.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_3_1: 100.0
+INFO:root:Route_4_0: 0.0
+INFO:root:Route_4_1: 100.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_5_1: 0.0
+INFO:root:Route_6_0: 0.0
+INFO:root:Route_6_1: 0.0
+INFO:root:Route_7_0: 100.0
+INFO:root:Route_7_1: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 0.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_2_1: 1.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_3_1: 1.0
+INFO:root:Route_y_4_0: 0.0
+INFO:root:Route_y_4_1: 1.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_5_1: 0.0
+INFO:root:Route_y_6_0: 0.0
+INFO:root:Route_y_6_1: 0.0
+INFO:root:Route_y_7_0: 1.0
+INFO:root:Route_y_7_1: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: 0.0
+INFO:root:workers_y_contraint_3: 0.0
+INFO:root:limit_workers_1_3_1: -999900.0
+INFO:root:limit_workers_2_3_1: 99.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_6: -100.0
+INFO:root:workers_y_contraint_6: -1.0
+INFO:root:limit_workers_1_6_1: 0.0
+INFO:root:limit_workers_2_6_1: 0.0
+INFO:root:limit_workers_1_6_0: 0.0
+INFO:root:limit_workers_2_6_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_7: 0.0
+INFO:root:workers_y_contraint_7: 0.0
+INFO:root:limit_workers_1_7_1: 0.0
+INFO:root:limit_workers_2_7_1: 0.0
+INFO:root:limit_workers_1_7_0: -999900.0
+INFO:root:limit_workers_2_7_0: 99.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -100.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_1: 0.0
+INFO:root:limit_workers_2_5_1: 0.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: 0.0
+INFO:root:workers_y_contraint_4: 0.0
+INFO:root:limit_workers_1_4_1: -999900.0
+INFO:root:limit_workers_2_4_1: 99.0
+INFO:root:limit_workers_1_4_0: 0.0
+INFO:root:limit_workers_2_4_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: 0.0
+INFO:root:workers_y_contraint_2: 0.0
+INFO:root:limit_workers_1_2_1: -999900.0
+INFO:root:limit_workers_2_2_1: 99.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -250.0
+INFO:root:workers_y_contraint_1: -1.0
+INFO:root:limit_workers_1_1_1: 0.0
+INFO:root:limit_workers_2_1_1: 0.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -350.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -75.39999999999998
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: 0.0
+INFO:root:turn - 221, orders - [[(7, 3), 'c_6'], [(8, 5), 'c_6'], [(5, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 222, orders - [[(7, 4), 'c_6'], [(8, 5), 'c_6'], [(6, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 223, orders - [[(7, 4), 'c_6'], [(6, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 224, orders - [[(7, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 225, orders - [[(7, 6), 'c_6']], solution - Optimal
+INFO:root:turn - 226, orders - [[(7, 4), 'c_6'], [(4, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 227, orders - [[(7, 4), 'c_6']], solution - Optimal
+INFO:root:turn - 228, orders - [[(7, 5), 'c_6']], solution - Optimal
+INFO:root:turn - 229, orders - [[(7, 5), 'c_6']], solution - Optimal
+INFO:root:turn - 230, orders - [[(8, 5), 'c_6']], solution - Optimal
+INFO:root:turn - 231, orders - [[(2, 2), 'c_9'], [(4, 6), 'c_7'], [(3, 4), 'c_9'], [(3, 6), 'c_7'], [(8, 5), 'c_6']], solution - Optimal
+INFO:root:turn - 232, orders - [[(3, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 233, orders - [[(3, 4), 'c_9'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 234, orders - [[(3, 4), 'c_9'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 235, orders - [[(2, 4), 'c_9'], [(1, 3), 'c_9']], solution - Optimal
+INFO:root:turn - 236, orders - [[(2, 4), 'c_9'], [(1, 3), 'c_9']], solution - Optimal
+INFO:root:turn - 237, orders - [[(3, 6), 'c_7'], [(1, 3), 'c_9'], [(3, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 238, orders - [[(3, 4), 'c_9'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 239, orders - [[(2, 7), 'c_7'], [(2, 4), 'c_9'], [(3, 4), 'c_9'], [(3, 6), 'c_7'], [(1, 3), 'c_9']], solution - Optimal
+INFO:root:turn - 240, orders - [[(8, 1), 'c_4'], [(2, 7), 'c_7'], [(2, 4), 'c_9'], [(3, 6), 'c_7'], [(1, 3), 'c_9']], solution - Optimal
+INFO:root:city_ids - ['c_9', 'c_7', 'c_4']
+INFO:root:worker_pos - [(14, 0), (8, 1), (8, 0), (2, 7), (2, 4), (2, 6), (1, 5), (3, 6), (1, 3)]
+INFO:root:supply - [990, 990, 800, 96, 96, 96, 96, 72, 48]
+INFO:root:demand - [153.39999999999998, 100, 538.4]
+INFO:root:value - [4, 4, 4]
+INFO:root:distance - [[9.9999e+03 9.9999e+03 1.5000e+00]
+ [1.5000e+00 2.7000e+00 1.2000e+00]
+ [1.8000e+00 3.0000e+00 1.5000e+00]
+ [2.7000e+01 0.0000e+00 9.9999e+04]
+ [0.0000e+00 1.2000e+01 2.1000e+01]
+ [9.0000e+00 1.2000e+01 2.4000e+01]
+ [9.0000e+00 1.2000e+01 2.4000e+01]
+ [6.0000e+00 0.0000e+00 2.1000e+01]
+ [0.0000e+00 2.7000e+01 9.9999e+04]], weight to city - [[9.9999e+04 9.9999e+04 1.5000e+01]
+ [1.5000e+01 2.7000e+01 1.2000e+01]
+ [1.8000e+01 3.0000e+01 1.5000e+01]
+ [2.7000e+01 0.0000e+00 9.9999e+04]
+ [0.0000e+00 1.2000e+01 2.1000e+01]
+ [9.0000e+00 1.2000e+01 2.4000e+01]
+ [9.0000e+00 1.2000e+01 2.4000e+01]
+ [6.0000e+00 0.0000e+00 2.1000e+01]
+ [0.0000e+00 2.7000e+01 9.9999e+04]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_0_2: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 0.0
+INFO:root:Route_1_2: 538.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_2_1: 0.0
+INFO:root:Route_2_2: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_3_1: 96.0
+INFO:root:Route_3_2: 0.0
+INFO:root:Route_4_0: 96.0
+INFO:root:Route_4_1: 0.0
+INFO:root:Route_4_2: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_5_1: 0.0
+INFO:root:Route_5_2: 0.0
+INFO:root:Route_6_0: 0.0
+INFO:root:Route_6_1: 0.0
+INFO:root:Route_6_2: 0.0
+INFO:root:Route_7_0: 0.0
+INFO:root:Route_7_1: 4.0
+INFO:root:Route_7_2: 0.0
+INFO:root:Route_8_0: 48.0
+INFO:root:Route_8_1: 0.0
+INFO:root:Route_8_2: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_0_2: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 0.0
+INFO:root:Route_y_1_2: 1.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_2_1: 0.0
+INFO:root:Route_y_2_2: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_3_1: 1.0
+INFO:root:Route_y_3_2: 0.0
+INFO:root:Route_y_4_0: 1.0
+INFO:root:Route_y_4_1: 0.0
+INFO:root:Route_y_4_2: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_5_1: 0.0
+INFO:root:Route_y_5_2: 0.0
+INFO:root:Route_y_6_0: 0.0
+INFO:root:Route_y_6_1: 0.0
+INFO:root:Route_y_6_2: 0.0
+INFO:root:Route_y_7_0: 0.0
+INFO:root:Route_y_7_1: 1.0
+INFO:root:Route_y_7_2: 0.0
+INFO:root:Route_y_8_0: 1.0
+INFO:root:Route_y_8_1: 0.0
+INFO:root:Route_y_8_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -96.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_2: 0.0
+INFO:root:limit_workers_2_5_2: 0.0
+INFO:root:limit_workers_1_5_1: 0.0
+INFO:root:limit_workers_2_5_1: 0.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: 0.0
+INFO:root:workers_y_contraint_4: 0.0
+INFO:root:limit_workers_1_4_2: 0.0
+INFO:root:limit_workers_2_4_2: 0.0
+INFO:root:limit_workers_1_4_1: 0.0
+INFO:root:limit_workers_2_4_1: 0.0
+INFO:root:limit_workers_1_4_0: -999904.0
+INFO:root:limit_workers_2_4_0: 95.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -990.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_2: 0.0
+INFO:root:limit_workers_2_0_2: 0.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_7: -68.0
+INFO:root:workers_y_contraint_7: 0.0
+INFO:root:limit_workers_1_7_2: 0.0
+INFO:root:limit_workers_2_7_2: 0.0
+INFO:root:limit_workers_1_7_1: -999996.0
+INFO:root:limit_workers_2_7_1: 3.0
+INFO:root:limit_workers_1_7_0: 0.0
+INFO:root:limit_workers_2_7_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_6: -96.0
+INFO:root:workers_y_contraint_6: -1.0
+INFO:root:limit_workers_1_6_2: 0.0
+INFO:root:limit_workers_2_6_2: 0.0
+INFO:root:limit_workers_1_6_1: 0.0
+INFO:root:limit_workers_2_6_1: 0.0
+INFO:root:limit_workers_1_6_0: 0.0
+INFO:root:limit_workers_2_6_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: 0.0
+INFO:root:workers_y_contraint_3: 0.0
+INFO:root:limit_workers_1_3_2: 0.0
+INFO:root:limit_workers_2_3_2: 0.0
+INFO:root:limit_workers_1_3_1: -999904.0
+INFO:root:limit_workers_2_3_1: 95.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -800.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_2: 0.0
+INFO:root:limit_workers_2_2_2: 0.0
+INFO:root:limit_workers_1_2_1: 0.0
+INFO:root:limit_workers_2_2_1: 0.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -452.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_2: -999462.0
+INFO:root:limit_workers_2_1_2: 537.0
+INFO:root:limit_workers_1_1_1: 0.0
+INFO:root:limit_workers_2_1_1: 0.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_8: 0.0
+INFO:root:workers_y_contraint_8: 0.0
+INFO:root:limit_workers_1_8_2: 0.0
+INFO:root:limit_workers_2_8_2: 0.0
+INFO:root:limit_workers_1_8_1: 0.0
+INFO:root:limit_workers_2_8_1: 0.0
+INFO:root:limit_workers_1_8_0: -999952.0
+INFO:root:limit_workers_2_8_0: 47.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_2: -0.39999999999997726
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -9.399999999999977
+INFO:root:turn - 241, orders - [[(9, 1), 'c_4'], [(2, 4), 'c_9'], [(3, 6), 'c_7'], [(1, 3), 'c_9'], [(3, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 242, orders - [[(9, 1), 'c_4'], [(3, 6), 'c_7']], solution - Optimal
+INFO:root:turn - 243, orders - [[(10, 1), 'c_4']], solution - Optimal
+INFO:root:turn - 244, orders - [[(10, 1), 'c_4']], solution - Optimal
+INFO:root:turn - 245, orders - [[(10, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 246, orders - [[(10, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 247, orders - [[(10, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 248, orders - [[(10, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 249, orders - [], solution - Optimal
+INFO:root:turn - 250, orders - [[(2, 7), 'c_7']], solution - Optimal
+INFO:root:turn - 251, orders - [], solution - Optimal
+INFO:root:turn - 252, orders - [[(2, 2), 'c_9'], [(1, 3), 'c_9']], solution - Optimal
+INFO:root:turn - 253, orders - [[(7, 2), 'c_9'], [(1, 3), 'c_13'], [(4, 5), 'c_9']], solution - Optimal
+INFO:root:turn - 254, orders - [[(7, 3), 'c_9'], [(2, 4), 'c_9'], [(4, 5), 'c_9'], [(0, 4), 'c_13']], solution - Optimal
+INFO:root:turn - 255, orders - [[(0, 4), 'c_13'], [(1, 3), 'c_13']], solution - Optimal
+INFO:root:turn - 256, orders - [[(1, 3), 'c_13']], solution - Optimal
+INFO:root:turn - 257, orders - [[(2, 7), 'c_7'], [(4, 5), 'c_7'], [(0, 4), 'c_13']], solution - Optimal
+INFO:root:turn - 258, orders - [[(0, 4), 'c_13'], [(1, 3), 'c_13']], solution - Optimal
+INFO:root:turn - 259, orders - [[(1, 3), 'c_13']], solution - Optimal
+INFO:root:turn - 260, orders - [], solution - Optimal
+INFO:root:city_ids - ['c_14']
+INFO:root:worker_pos - [(7, 2), (8, 1), (2, 5), (2, 7), (3, 6), (4, 5), (0, 4)]
+INFO:root:supply - [400, 150, 100, 100, 80, 40, 20]
+INFO:root:demand - [234.6]
+INFO:root:value - [4]
+INFO:root:distance - [[ 9999.9]
+ [ 9999.9]
+ [99999. ]
+ [99999. ]
+ [99999. ]
+ [99999. ]
+ [99999. ]], weight to city - [[99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]
+ [99999.]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_4_0: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_6_0: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_4_0: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_6_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_6: -20.0
+INFO:root:workers_y_contraint_6: -1.0
+INFO:root:limit_workers_1_6_0: 0.0
+INFO:root:limit_workers_2_6_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: -80.0
+INFO:root:workers_y_contraint_4: -1.0
+INFO:root:limit_workers_1_4_0: 0.0
+INFO:root:limit_workers_2_4_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -40.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: -100.0
+INFO:root:workers_y_contraint_3: -1.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -400.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -100.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -150.0
+INFO:root:workers_y_contraint_1: -1.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -234.6
+INFO:root:turn - 261, orders - [], solution - Optimal
+INFO:root:turn - 262, orders - [], solution - Optimal
+INFO:root:turn - 263, orders - [], solution - Optimal
+INFO:root:turn - 264, orders - [[(2, 4), 'c_9'], [(6, 2), 'c_9']], solution - Optimal
+INFO:root:turn - 265, orders - [[(6, 2), 'c_9']], solution - Optimal
+INFO:root:turn - 266, orders - [[(2, 7), 'c_9'], [(2, 4), 'c_9'], [(5, 2), 'c_9']], solution - Optimal
+INFO:root:turn - 267, orders - [[(2, 4), 'c_9'], [(2, 7), 'c_9']], solution - Optimal
+INFO:root:turn - 268, orders - [], solution - Optimal
+INFO:root:turn - 269, orders - [], solution - Optimal
+INFO:root:turn - 270, orders - [], solution - Optimal
+INFO:root:turn - 271, orders - [[(2, 4), 'c_9'], [(2, 7), 'c_9']], solution - Optimal
+INFO:root:turn - 272, orders - [[(6, 3), 'c_9'], [(12, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 273, orders - [[(2, 7), 'c_9'], [(6, 3), 'c_9'], [(12, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 274, orders - [[(2, 7), 'c_9'], [(2, 4), 'c_9'], [(6, 3), 'c_9'], [(12, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 275, orders - [[(3, 6), 'c_9'], [(5, 3), 'c_9'], [(12, 3), 'c_4'], [(2, 7), 'c_9']], solution - Optimal
+INFO:root:turn - 276, orders - [[(3, 6), 'c_9'], [(5, 3), 'c_9'], [(12, 3), 'c_4']], solution - Optimal
+INFO:root:turn - 277, orders - [[(3, 6), 'c_9'], [(5, 3), 'c_9'], [(12, 3), 'c_4'], [(2, 7), 'c_9']], solution - Optimal
+INFO:root:turn - 278, orders - [[(2, 7), 'c_9'], [(5, 3), 'c_9'], [(12, 3), 'c_4'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 279, orders - [[(2, 5), 'c_9'], [(2, 7), 'c_9']], solution - Optimal
+INFO:root:turn - 280, orders - [[(5, 1), 'c_9'], [(7, 1), 'c_4'], [(6, 2), 'c_13'], [(2, 7), 'c_9'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:city_ids - ['c_9', 'c_4', 'c_13']
+INFO:root:worker_pos - [(5, 1), (7, 1), (8, 0), (6, 2), (2, 7), (1, 6), (1, 5), (1, 7), (0, 6), (2, 4)]
+INFO:root:supply - [990, 990, 750, 550, 96, 96, 96, 96, 96, 96]
+INFO:root:demand - [272.60000000000014, 847.6000000000001, 204.6]
+INFO:root:value - [4.5, 4.5, 4]
+INFO:root:distance - [[6.0000e-01 1.8000e+00 1.8000e+00]
+ [1.2000e+00 1.2000e+00 3.0000e+00]
+ [1.8000e+00 1.2000e+00 3.0000e+00]
+ [6.0000e-01 1.2000e+00 1.8000e+00]
+ [0.0000e+00 9.9999e+04 9.9999e+04]
+ [6.0000e+00 9.9999e+04 9.9999e+04]
+ [6.0000e+00 9.9999e+04 6.0000e+00]
+ [9.9999e+04 9.9999e+04 9.9999e+04]
+ [9.9999e+04 9.9999e+04 9.9999e+04]
+ [0.0000e+00 9.9999e+04 6.0000e+00]], weight to city - [[6.0000e+00 1.8000e+01 1.8000e+01]
+ [1.2000e+01 1.2000e+01 3.0000e+01]
+ [1.8000e+01 1.2000e+01 3.0000e+01]
+ [6.0000e+00 1.2000e+01 1.8000e+01]
+ [0.0000e+00 9.9999e+04 9.9999e+04]
+ [6.0000e+00 9.9999e+04 9.9999e+04]
+ [6.0000e+00 9.9999e+04 6.0000e+00]
+ [9.9999e+04 9.9999e+04 9.9999e+04]
+ [9.9999e+04 9.9999e+04 9.9999e+04]
+ [0.0000e+00 9.9999e+04 6.0000e+00]]
+INFO:root:Route_0_0: 80.0
+INFO:root:Route_0_1: 0.0
+INFO:root:Route_0_2: 0.0
+INFO:root:Route_1_0: 0.0
+INFO:root:Route_1_1: 847.0
+INFO:root:Route_1_2: 0.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_2_1: 0.0
+INFO:root:Route_2_2: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_3_1: 0.0
+INFO:root:Route_3_2: 204.0
+INFO:root:Route_4_0: 96.0
+INFO:root:Route_4_1: 0.0
+INFO:root:Route_4_2: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_5_1: 0.0
+INFO:root:Route_5_2: 0.0
+INFO:root:Route_6_0: 0.0
+INFO:root:Route_6_1: 0.0
+INFO:root:Route_6_2: 0.0
+INFO:root:Route_7_0: 0.0
+INFO:root:Route_7_1: 0.0
+INFO:root:Route_7_2: 0.0
+INFO:root:Route_8_0: 0.0
+INFO:root:Route_8_1: 0.0
+INFO:root:Route_8_2: 0.0
+INFO:root:Route_9_0: 96.0
+INFO:root:Route_9_1: 0.0
+INFO:root:Route_9_2: 0.0
+INFO:root:Route_y_0_0: 1.0
+INFO:root:Route_y_0_1: 0.0
+INFO:root:Route_y_0_2: 0.0
+INFO:root:Route_y_1_0: 0.0
+INFO:root:Route_y_1_1: 1.0
+INFO:root:Route_y_1_2: 0.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_2_1: 0.0
+INFO:root:Route_y_2_2: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_3_1: 0.0
+INFO:root:Route_y_3_2: 1.0
+INFO:root:Route_y_4_0: 1.0
+INFO:root:Route_y_4_1: 0.0
+INFO:root:Route_y_4_2: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_5_1: 0.0
+INFO:root:Route_y_5_2: 0.0
+INFO:root:Route_y_6_0: 0.0
+INFO:root:Route_y_6_1: 0.0
+INFO:root:Route_y_6_2: 0.0
+INFO:root:Route_y_7_0: 0.0
+INFO:root:Route_y_7_1: 0.0
+INFO:root:Route_y_7_2: 0.0
+INFO:root:Route_y_8_0: 0.0
+INFO:root:Route_y_8_1: 0.0
+INFO:root:Route_y_8_2: 0.0
+INFO:root:Route_y_9_0: 1.0
+INFO:root:Route_y_9_1: 0.0
+INFO:root:Route_y_9_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_7: -96.0
+INFO:root:workers_y_contraint_7: -1.0
+INFO:root:limit_workers_1_7_1: 0.0
+INFO:root:limit_workers_2_7_1: 0.0
+INFO:root:limit_workers_1_7_0: 0.0
+INFO:root:limit_workers_2_7_0: 0.0
+INFO:root:limit_workers_1_7_2: 0.0
+INFO:root:limit_workers_2_7_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: 0.0
+INFO:root:workers_y_contraint_4: 0.0
+INFO:root:limit_workers_1_4_1: 0.0
+INFO:root:limit_workers_2_4_1: 0.0
+INFO:root:limit_workers_1_4_0: -999904.0
+INFO:root:limit_workers_2_4_0: 95.0
+INFO:root:limit_workers_1_4_2: 0.0
+INFO:root:limit_workers_2_4_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -910.0
+INFO:root:workers_y_contraint_0: 0.0
+INFO:root:limit_workers_1_0_1: 0.0
+INFO:root:limit_workers_2_0_1: 0.0
+INFO:root:limit_workers_1_0_0: -999920.0
+INFO:root:limit_workers_2_0_0: 79.0
+INFO:root:limit_workers_1_0_2: 0.0
+INFO:root:limit_workers_2_0_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_8: -96.0
+INFO:root:workers_y_contraint_8: -1.0
+INFO:root:limit_workers_1_8_1: 0.0
+INFO:root:limit_workers_2_8_1: 0.0
+INFO:root:limit_workers_1_8_0: 0.0
+INFO:root:limit_workers_2_8_0: 0.0
+INFO:root:limit_workers_1_8_2: 0.0
+INFO:root:limit_workers_2_8_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_9: 0.0
+INFO:root:workers_y_contraint_9: 0.0
+INFO:root:limit_workers_1_9_1: 0.0
+INFO:root:limit_workers_2_9_1: 0.0
+INFO:root:limit_workers_1_9_0: -999904.0
+INFO:root:limit_workers_2_9_0: 95.0
+INFO:root:limit_workers_1_9_2: 0.0
+INFO:root:limit_workers_2_9_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_6: -96.0
+INFO:root:workers_y_contraint_6: -1.0
+INFO:root:limit_workers_1_6_1: 0.0
+INFO:root:limit_workers_2_6_1: 0.0
+INFO:root:limit_workers_1_6_0: 0.0
+INFO:root:limit_workers_2_6_0: 0.0
+INFO:root:limit_workers_1_6_2: 0.0
+INFO:root:limit_workers_2_6_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -96.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_1: 0.0
+INFO:root:limit_workers_2_5_1: 0.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:limit_workers_1_5_2: 0.0
+INFO:root:limit_workers_2_5_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: -346.0
+INFO:root:workers_y_contraint_3: 0.0
+INFO:root:limit_workers_1_3_1: 0.0
+INFO:root:limit_workers_2_3_1: 0.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:limit_workers_1_3_2: -999796.0
+INFO:root:limit_workers_2_3_2: 203.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -750.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_1: 0.0
+INFO:root:limit_workers_2_2_1: 0.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:limit_workers_1_2_2: 0.0
+INFO:root:limit_workers_2_2_2: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -143.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_1: -999153.0
+INFO:root:limit_workers_2_1_1: 846.0
+INFO:root:limit_workers_1_1_0: 0.0
+INFO:root:limit_workers_2_1_0: 0.0
+INFO:root:limit_workers_1_1_2: 0.0
+INFO:root:limit_workers_2_1_2: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_1: -0.6000000000001364
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: -0.6000000000001364
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_2: -0.5999999999999943
+INFO:root:turn - 281, orders - [[(5, 2), 'c_13'], [(3, 6), 'c_9'], [(8, 1), 'c_4'], [(6, 1), 'c_9'], [(2, 7), 'c_9'], [(2, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 282, orders - [[(5, 2), 'c_13'], [(8, 1), 'c_4'], [(6, 1), 'c_9'], [(2, 4), 'c_9'], [(3, 6), 'c_9']], solution - Optimal
+INFO:root:turn - 283, orders - [[(4, 2), 'c_13'], [(9, 1), 'c_4'], [(2, 7), 'c_9'], [(2, 4), 'c_9'], [(3, 6), 'c_9']], solution - Optimal
+INFO:root:turn - 284, orders - [[(4, 2), 'c_13'], [(9, 1), 'c_4'], [(2, 4), 'c_9'], [(3, 6), 'c_9']], solution - Optimal
+INFO:root:turn - 285, orders - [[(3, 2), 'c_13'], [(9, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 286, orders - [[(3, 2), 'c_13'], [(9, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 287, orders - [[(2, 2), 'c_13'], [(10, 2), 'c_4']], solution - Optimal
+INFO:root:turn - 288, orders - [[(2, 2), 'c_13'], [(10, 2), 'c_4'], [(2, 7), 'c_9'], [(3, 6), 'c_9']], solution - Optimal
+INFO:root:turn - 289, orders - [[(1, 2), 'c_13']], solution - Optimal
+INFO:root:turn - 290, orders - [[(1, 2), 'c_13']], solution - Optimal
+INFO:root:turn - 291, orders - [[(1, 3), 'c_13']], solution - Optimal
+INFO:root:turn - 292, orders - [[(1, 3), 'c_13']], solution - Optimal
+INFO:root:turn - 293, orders - [], solution - Optimal
+INFO:root:turn - 294, orders - [], solution - Optimal
+INFO:root:turn - 295, orders - [], solution - Optimal
+INFO:root:turn - 296, orders - [], solution - Optimal
+INFO:root:turn - 297, orders - [], solution - Optimal
+INFO:root:turn - 298, orders - [], solution - Optimal
+INFO:root:turn - 299, orders - [], solution - Optimal
+INFO:root:turn - 300, orders - [], solution - Optimal
+INFO:root:city_ids - []
+INFO:root:worker_pos - [(1, 2), (5, 3), (7, 2), (0, 2), (6, 2), (8, 0), (15, 3), (14, 2), (1, 6), (2, 5), (0, 7), (2, 1), (2, 7)]
+INFO:root:supply - [1280, 1000, 1000, 560, 500, 500, 400, 240, 100, 100, 100, 80, 60]
+INFO:root:demand - []
+INFO:root:value - []
+INFO:root:distance - [], weight to city - []
+INFO:root:__dummy: None
+INFO:root:Sum_of_fuel_out_of_worker_8: -100
+INFO:root:workers_y_contraint_8: -1
+INFO:root:Sum_of_fuel_out_of_worker_11: -80
+INFO:root:workers_y_contraint_11: -1
+INFO:root:Sum_of_fuel_out_of_worker_7: -240
+INFO:root:workers_y_contraint_7: -1
+INFO:root:Sum_of_fuel_out_of_worker_6: -400
+INFO:root:workers_y_contraint_6: -1
+INFO:root:Sum_of_fuel_out_of_worker_10: -100
+INFO:root:workers_y_contraint_10: -1
+INFO:root:Sum_of_fuel_out_of_worker_4: -500
+INFO:root:workers_y_contraint_4: -1
+INFO:root:Sum_of_fuel_out_of_worker_12: -60
+INFO:root:workers_y_contraint_12: -1
+INFO:root:Sum_of_fuel_out_of_worker_3: -560
+INFO:root:workers_y_contraint_3: -1
+INFO:root:Sum_of_fuel_out_of_worker_5: -500
+INFO:root:workers_y_contraint_5: -1
+INFO:root:Sum_of_fuel_out_of_worker_1: -1000
+INFO:root:workers_y_contraint_1: -1
+INFO:root:Sum_of_fuel_out_of_worker_0: -1280
+INFO:root:workers_y_contraint_0: -1
+INFO:root:Sum_of_fuel_out_of_worker_9: -100
+INFO:root:workers_y_contraint_9: -1
+INFO:root:Sum_of_fuel_out_of_worker_2: -1000
+INFO:root:workers_y_contraint_2: -1
+INFO:root:turn - 301, orders - [], solution - Optimal
+INFO:root:turn - 302, orders - [], solution - Optimal
+INFO:root:turn - 303, orders - [], solution - Optimal
+INFO:root:turn - 304, orders - [], solution - Optimal
+INFO:root:turn - 305, orders - [], solution - Optimal
+INFO:root:turn - 306, orders - [], solution - Optimal
+INFO:root:turn - 307, orders - [], solution - Optimal
+INFO:root:turn - 308, orders - [], solution - Optimal
+INFO:root:turn - 309, orders - [], solution - Optimal
+INFO:root:turn - 310, orders - [], solution - Optimal
+INFO:root:turn - 311, orders - [], solution - Optimal
+INFO:root:turn - 312, orders - [], solution - Optimal
+INFO:root:turn - 313, orders - [], solution - Optimal
+INFO:root:turn - 314, orders - [], solution - Optimal
+INFO:root:turn - 315, orders - [[(2, 5), 'c_9'], [(1, 4), 'c_9']], solution - Optimal
+INFO:root:turn - 316, orders - [[(6, 6), 'c_9']], solution - Optimal
+INFO:root:turn - 317, orders - [[(1, 2), 'c_9'], [(6, 6), 'c_9']], solution - Optimal
+INFO:root:turn - 318, orders - [], solution - Optimal
+INFO:root:turn - 319, orders - [], solution - Optimal
+INFO:root:turn - 320, orders - [[(15, 3), 'c_4']], solution - Optimal
+INFO:root:city_ids - ['c_4']
+INFO:root:worker_pos - [(0, 2), (15, 3), (14, 2), (2, 1), (15, 1), (6, 1), (7, 0), (7, 6), (5, 1), (4, 0), (1, 2), (2, 7), (1, 6), (1, 7), (0, 7), (2, 5), (1, 4)]
+INFO:root:supply - [1760, 1600, 1440, 1280, 1040, 990, 990, 900, 830, 450, 240, 96, 96, 96, 96, 64, 64]
+INFO:root:demand - [1015.0]
+INFO:root:value - [5.0]
+INFO:root:distance - [[9.9999e+03]
+ [6.0000e-01]
+ [6.0000e-01]
+ [2.7000e+00]
+ [1.2000e+00]
+ [1.5000e+00]
+ [1.5000e+00]
+ [9.0000e-01]
+ [1.8000e+00]
+ [2.4000e+00]
+ [2.7000e+00]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]], weight to city - [[9.9999e+04]
+ [6.0000e+00]
+ [6.0000e+00]
+ [2.7000e+01]
+ [1.2000e+01]
+ [1.5000e+01]
+ [1.5000e+01]
+ [9.0000e+00]
+ [1.8000e+01]
+ [2.4000e+01]
+ [2.7000e+01]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]
+ [9.9999e+04]]
+INFO:root:Route_0_0: 0.0
+INFO:root:Route_10_0: 0.0
+INFO:root:Route_11_0: 0.0
+INFO:root:Route_12_0: 0.0
+INFO:root:Route_13_0: 0.0
+INFO:root:Route_14_0: 0.0
+INFO:root:Route_15_0: 0.0
+INFO:root:Route_16_0: 0.0
+INFO:root:Route_1_0: 1015.0
+INFO:root:Route_2_0: 0.0
+INFO:root:Route_3_0: 0.0
+INFO:root:Route_4_0: 0.0
+INFO:root:Route_5_0: 0.0
+INFO:root:Route_6_0: 0.0
+INFO:root:Route_7_0: 0.0
+INFO:root:Route_8_0: 0.0
+INFO:root:Route_9_0: 0.0
+INFO:root:Route_y_0_0: 0.0
+INFO:root:Route_y_10_0: 0.0
+INFO:root:Route_y_11_0: 0.0
+INFO:root:Route_y_12_0: 0.0
+INFO:root:Route_y_13_0: 0.0
+INFO:root:Route_y_14_0: 0.0
+INFO:root:Route_y_15_0: 0.0
+INFO:root:Route_y_16_0: 0.0
+INFO:root:Route_y_1_0: 1.0
+INFO:root:Route_y_2_0: 0.0
+INFO:root:Route_y_3_0: 0.0
+INFO:root:Route_y_4_0: 0.0
+INFO:root:Route_y_5_0: 0.0
+INFO:root:Route_y_6_0: 0.0
+INFO:root:Route_y_7_0: 0.0
+INFO:root:Route_y_8_0: 0.0
+INFO:root:Route_y_9_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_8: -830.0
+INFO:root:workers_y_contraint_8: -1.0
+INFO:root:limit_workers_1_8_0: 0.0
+INFO:root:limit_workers_2_8_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_15: -64.0
+INFO:root:workers_y_contraint_15: -1.0
+INFO:root:limit_workers_1_15_0: 0.0
+INFO:root:limit_workers_2_15_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_4: -1040.0
+INFO:root:workers_y_contraint_4: -1.0
+INFO:root:limit_workers_1_4_0: 0.0
+INFO:root:limit_workers_2_4_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_12: -96.0
+INFO:root:workers_y_contraint_12: -1.0
+INFO:root:limit_workers_1_12_0: 0.0
+INFO:root:limit_workers_2_12_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_16: -64.0
+INFO:root:workers_y_contraint_16: -1.0
+INFO:root:limit_workers_1_16_0: 0.0
+INFO:root:limit_workers_2_16_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_13: -96.0
+INFO:root:workers_y_contraint_13: -1.0
+INFO:root:limit_workers_1_13_0: 0.0
+INFO:root:limit_workers_2_13_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_5: -990.0
+INFO:root:workers_y_contraint_5: -1.0
+INFO:root:limit_workers_1_5_0: 0.0
+INFO:root:limit_workers_2_5_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_10: -240.0
+INFO:root:workers_y_contraint_10: -1.0
+INFO:root:limit_workers_1_10_0: 0.0
+INFO:root:limit_workers_2_10_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_14: -96.0
+INFO:root:workers_y_contraint_14: -1.0
+INFO:root:limit_workers_1_14_0: 0.0
+INFO:root:limit_workers_2_14_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_6: -990.0
+INFO:root:workers_y_contraint_6: -1.0
+INFO:root:limit_workers_1_6_0: 0.0
+INFO:root:limit_workers_2_6_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_11: -96.0
+INFO:root:workers_y_contraint_11: -1.0
+INFO:root:limit_workers_1_11_0: 0.0
+INFO:root:limit_workers_2_11_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_9: -450.0
+INFO:root:workers_y_contraint_9: -1.0
+INFO:root:limit_workers_1_9_0: 0.0
+INFO:root:limit_workers_2_9_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_7: -900.0
+INFO:root:workers_y_contraint_7: -1.0
+INFO:root:limit_workers_1_7_0: 0.0
+INFO:root:limit_workers_2_7_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_3: -1280.0
+INFO:root:workers_y_contraint_3: -1.0
+INFO:root:limit_workers_1_3_0: 0.0
+INFO:root:limit_workers_2_3_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_1: -585.0
+INFO:root:workers_y_contraint_1: 0.0
+INFO:root:limit_workers_1_1_0: -998985.0
+INFO:root:limit_workers_2_1_0: 1014.0
+INFO:root:Sum_of_fuel_out_of_worker_2: -1440.0
+INFO:root:workers_y_contraint_2: -1.0
+INFO:root:limit_workers_1_2_0: 0.0
+INFO:root:limit_workers_2_2_0: 0.0
+INFO:root:Sum_of_fuel_out_of_worker_0: -1760.0
+INFO:root:workers_y_contraint_0: -1.0
+INFO:root:limit_workers_1_0_0: 0.0
+INFO:root:limit_workers_2_0_0: 0.0
+INFO:root:Sum_of_fuel_into_city_max_city_requirements_0: 0.0
+INFO:root:turn - 321, orders - [[(15, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 322, orders - [[(15, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 323, orders - [[(14, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 324, orders - [[(14, 4), 'c_4']], solution - Optimal
+INFO:root:turn - 325, orders - [], solution - Optimal
+INFO:root:turn - 326, orders - [], solution - Optimal
+INFO:root:turn - 327, orders - [], solution - Optimal
+INFO:root:turn - 328, orders - [], solution - Optimal
+INFO:root:turn - 329, orders - [], solution - Optimal
+INFO:root:turn - 330, orders - [], solution - Optimal
+INFO:root:turn - 331, orders - [], solution - Optimal
+INFO:root:turn - 332, orders - [], solution - Optimal
+INFO:root:turn - 333, orders - [], solution - Optimal
+INFO:root:turn - 334, orders - [], solution - Optimal
+INFO:root:turn - 335, orders - [], solution - Optimal
+INFO:root:turn - 336, orders - [], solution - Optimal
+INFO:root:turn - 337, orders - [], solution - Optimal
+INFO:root:turn - 338, orders - [], solution - Optimal
+INFO:root:turn - 339, orders - [], solution - Optimal
+INFO:root:turn - 340, orders - [], solution - Optimal
+INFO:root:city_ids - []
+INFO:root:worker_pos - [(1, 2), (0, 2), (14, 2), (2, 1), (15, 1), (1, 0), (8, 4), (15, 3), (5, 1), (6, 1), (7, 0), (0, 7), (1, 7), (2, 7), (1, 6), (2, 5), (1, 4), (4, 0)]
+INFO:root:supply - [3440, 3360, 3040, 2880, 2640, 1760, 900, 880, 660, 650, 400, 100, 100, 100, 100, 75, 75, 60]
+INFO:root:demand - []
+INFO:root:value - []
+INFO:root:distance - [], weight to city - []
+INFO:root:__dummy: None
+INFO:root:Sum_of_fuel_out_of_worker_10: -400
+INFO:root:workers_y_contraint_10: -1
+INFO:root:Sum_of_fuel_out_of_worker_7: -880
+INFO:root:workers_y_contraint_7: -1
+INFO:root:Sum_of_fuel_out_of_worker_4: -2640
+INFO:root:workers_y_contraint_4: -1
+INFO:root:Sum_of_fuel_out_of_worker_11: -100
+INFO:root:workers_y_contraint_11: -1
+INFO:root:Sum_of_fuel_out_of_worker_13: -100
+INFO:root:workers_y_contraint_13: -1
+INFO:root:Sum_of_fuel_out_of_worker_15: -75
+INFO:root:workers_y_contraint_15: -1
+INFO:root:Sum_of_fuel_out_of_worker_9: -650
+INFO:root:workers_y_contraint_9: -1
+INFO:root:Sum_of_fuel_out_of_worker_12: -100
+INFO:root:workers_y_contraint_12: -1
+INFO:root:Sum_of_fuel_out_of_worker_14: -100
+INFO:root:workers_y_contraint_14: -1
+INFO:root:Sum_of_fuel_out_of_worker_17: -60
+INFO:root:workers_y_contraint_17: -1
+INFO:root:Sum_of_fuel_out_of_worker_16: -75
+INFO:root:workers_y_contraint_16: -1
+INFO:root:Sum_of_fuel_out_of_worker_1: -3360
+INFO:root:workers_y_contraint_1: -1
+INFO:root:Sum_of_fuel_out_of_worker_3: -2880
+INFO:root:workers_y_contraint_3: -1
+INFO:root:Sum_of_fuel_out_of_worker_8: -660
+INFO:root:workers_y_contraint_8: -1
+INFO:root:Sum_of_fuel_out_of_worker_6: -900
+INFO:root:workers_y_contraint_6: -1
+INFO:root:Sum_of_fuel_out_of_worker_2: -3040
+INFO:root:workers_y_contraint_2: -1
+INFO:root:Sum_of_fuel_out_of_worker_0: -3440
+INFO:root:workers_y_contraint_0: -1
+INFO:root:Sum_of_fuel_out_of_worker_5: -1760
+INFO:root:workers_y_contraint_5: -1
+INFO:root:turn - 341, orders - [], solution - Optimal
+INFO:root:turn - 342, orders - [], solution - Optimal
+INFO:root:turn - 343, orders - [], solution - Optimal
+INFO:root:turn - 344, orders - [], solution - Optimal
+INFO:root:turn - 345, orders - [], solution - Optimal
+INFO:root:turn - 346, orders - [], solution - Optimal
+INFO:root:turn - 347, orders - [], solution - Optimal
+INFO:root:turn - 348, orders - [], solution - Optimal
+INFO:root:turn - 349, orders - [], solution - Optimal
+INFO:root:turn - 350, orders - [], solution - Optimal
+INFO:root:turn - 351, orders - [], solution - Optimal
+INFO:root:turn - 352, orders - [], solution - Optimal
+INFO:root:turn - 353, orders - [[(8, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 354, orders - [[(8, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 355, orders - [[(9, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 356, orders - [[(9, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 357, orders - [[(9, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 358, orders - [[(9, 5), 'c_4']], solution - Optimal
+INFO:root:turn - 359, orders - [], solution - Optimal
