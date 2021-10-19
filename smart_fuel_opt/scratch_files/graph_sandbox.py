@@ -37,3 +37,10 @@ subdict = {k: v for k, v in lengths.items() if k in subnodes}
 dist_array = sorted([(subnode_type[subnodes.index(k)], v) for (k,v) in subdict.items()], reverse=True)
 dist_dic = {i[0]:i[1] for i in dist_array}
 
+
+import scipy.signal
+import numpy as np
+city_resource_matrix2 = np.zeros(shape=(4, 4))
+city_resource_matrix2[2][0]=1
+city_resource_conv_matrix2 = np.array([[0,1,0], [1,0,1], [0,1,0]])
+print(scipy.signal.convolve2d(city_resource_matrix2, city_resource_conv_matrix2, mode='same'))

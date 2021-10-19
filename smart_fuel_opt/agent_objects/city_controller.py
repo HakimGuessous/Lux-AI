@@ -50,7 +50,7 @@ class CityController(BaseController):
         supply_special = []
         index = []
         for unit in self.player.units:
-            if unit.cargo.wood + (unit.cargo.coal*10) + (unit.cargo.uranium*40) >= 20:
+            if unit.cargo.wood + (unit.cargo.coal*10) + (unit.cargo.uranium*40) >= 50:
                 positions.append((unit.pos.x, unit.pos.y))
                 supply.append(unit.cargo.wood + (unit.cargo.coal*10) + (unit.cargo.uranium*40))
                 index.append((max(index)+1 if index else 0))
@@ -60,10 +60,10 @@ class CityController(BaseController):
                     supply_special.append(1)
         
         return {
-            "positions": [positions[i] for i in np.argsort(supply)[::-1]][:40],
-            "supply": [supply[i] for i in np.argsort(supply)[::-1]][:40],
-            "supply_special": [supply_special[i] for i in np.argsort(supply)[::-1]][:40],
-            "index": [index[i] for i in np.argsort(supply)[::-1]][:40],
+            "positions": [positions[i] for i in np.argsort(supply)[::-1]],
+            "supply": [supply[i] for i in np.argsort(supply)[::-1]],
+            "supply_special": [supply_special[i] for i in np.argsort(supply)[::-1]],
+            "index": [index[i] for i in np.argsort(supply)[::-1]],
             }
     
     def get_cities_needing_fuel(self) -> dict:
@@ -75,13 +75,13 @@ class CityController(BaseController):
         for city in self.player.cities.values():
             fuel = city.fuel
             upkeep = city.get_light_upkeep()
-            
-            if fuel < (upkeep * min((10 + (len(city.citytiles)/5)), 15)):
+            nights_remaining = ((360 - self.turn)//40)*10 + min(((360 - self.turn)%40),10)
+            if fuel < (upkeep * nights_remaining) + 300:
                 city_id.append(f"{city.cityid}")
-                demand.append(max((upkeep * min((10 + (len(city.citytiles)/5)), 15)) - fuel, 100))
-                value.append(max(len(city.citytiles)/2, 4))
+                demand.append(max((((upkeep * nights_remaining) - fuel + 300)), 100))
+                value.append(max(min(len(city.citytiles)/4, 4),1))
                 index.append((max(index)+1 if index else 0))
-                fuel_turns.append(int(fuel/upkeep))
+                fuel_turns.append((((int(fuel/upkeep)//10) * 40)  - (30 - self.turns_until_night) + (int(fuel/upkeep)%10)) + 30)
         return {
             "city_id": [city_id[i] for i in np.argsort(value)[::-1]][:20],
             "demand": [demand[i] for i in np.argsort(value)[::-1]][:20],
@@ -102,13 +102,11 @@ class CityController(BaseController):
                 c_dist = c[1]
                 cid = self.cities_needing_fuel_id.index(c_name) if c_name in self.cities_needing_fuel_id else "No match"
                 if cid != "No match":
-                    if c_dist <= (self.turns_until_night):
-                        dist_matrix[w][cid] = c_dist
-                    elif ((c_dist - self.turns_until_night) * 2) > self.cities_needing_fuel_turns[cid]:
-                        dist_matrix[w][cid] = 99999
+                    adjusted_distance = c_dist + ((((c_dist - self.turns_until_night)//40)*10 + min((c_dist - self.turns_until_night)%40,10))*2)
+                    if adjusted_distance <= self.cities_needing_fuel_turns[cid]:
+                        dist_matrix[w][cid] = adjusted_distance
                     else:
-                        dist_matrix[w][cid] = self.turns_until_night + ((c_dist - self.turns_until_night) * 2)
-
+                        dist_matrix[w][cid] = 99999
         return dist_matrix
 
         # find closest route to node type
@@ -119,7 +117,7 @@ class CityController(BaseController):
         #We are only interested in a particular type of node
         subnodes = [name for name, d in G.nodes(data=True) if ("friendly_city" in d['type'])]
         subnode_type = [d['type'][1] for name, d in G.nodes(data=True) if ("friendly_city" in d['type'])]
-        subdict = {k: v - 1000 for k, v in lengths.items() if k in subnodes}
+        subdict = {k: v - 999 for k, v in lengths.items() if k in subnodes}
         dist_array = sorted([(subnode_type[subnodes.index(k)], v) for (k,v) in subdict.items()], reverse=True)
         dist_dic = {i[0]:i[1] for i in dist_array}
         return dist_dic
@@ -143,9 +141,13 @@ class CityController(BaseController):
         # Creates a list for the number of units of demand for each demand node
         demand = self.cities_needing_fuel_demand
         # City value based on the number of city tiles
-        value = self.cities_needing_fuel_value
+        city_tiles = self.cities_needing_fuel_value
+        # Turns cities can survive for
+        turns = self.cities_needing_fuel_turns
+        # City value based on the number of city tiles and the number of turns it can survive
+        value = [city_tiles[i]/max(np.log10(max(turns[i],1))**(9 - min(self.turn_cycle, 5)), 0.5) for i in range(len(turns))]
         # Worker distance to city in approximate move turns
-        distance = self.worker_distance_to_cities * np.array([supply_special]).T
+        distance = np.clip(self.worker_distance_to_cities, 5, 99999) * np.array([supply_special]).T
         # Creates the prob variable to contain the problem data
         prob = LpProblem("Fuel delivery problem",LpMaximize)
         # Creates a list of tuples containing all the possible routes for transport
@@ -154,7 +156,7 @@ class CityController(BaseController):
         route_vars = LpVariable.dicts("Route",(workers,cities),0,None,LpInteger)
         route_y = LpVariable.dicts("Route_y",(workers,cities),0, cat="Binary")
         # The objective function is added to prob first
-        prob += lpSum([route_vars[w][c] * (value[c]) for (w,c) in Routes])/10 - lpSum([distance[w][c] * route_y[w][c] for (w,c) in Routes])*4, "Sum of city value vs transporting cost"
+        prob += lpSum([route_vars[w][c] * (value[c]) for (w,c) in Routes])/10 - lpSum([distance[w][c] * route_y[w][c] for (w,c) in Routes])*(4 - min(self.turn_cycle, 3)), "Sum of city value vs transporting cost"
         # The supply maximum constraints are added to prob for each supply node (worker)
         for w in workers:
             prob += lpSum([route_vars[w][c] for c in cities]) <= (supply[w]), "Sum of fuel out of worker %s"%w
@@ -180,7 +182,7 @@ class CityController(BaseController):
             logging.info(f"supply - {supply}")
             logging.info(f"demand - {demand}")
             logging.info(f"value - {value}")
-            logging.info(f"distance - {distance}, weight to city - {self.worker_distance_to_cities}")
+            logging.info(f"distance - {distance}")
             for var in prob.variables():
                 logging.info(f"{var.name}: {var.value()}")
             for name, constraint in prob.constraints.items():

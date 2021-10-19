@@ -24,20 +24,35 @@ class UnitControler(BaseController):
             self.unit = unit
             self.use_unit(actions)
 
-    def get_closest_resource(self, actions: list, weight="weight") -> str:
+    def get_closest_resource(self, actions: list, method="closest", weight="weight") -> str:
         unit_position_cood = (self.unit.pos.x, self.unit.pos.y)
-        if self.player.researched_uranium():
-            closest_resource, length = self.find_closest_type("uranium_researched", unit_position_cood, weight, self.mc.uranium_adj)
-        elif self.player.researched_coal():
-            closest_resource, length = self.find_closest_type("coal_researched", unit_position_cood, weight, self.mc.coal_adj)
-        else:
-            closest_resource, length = self.find_closest_type("wood", unit_position_cood, weight, self.mc.wood_adj)
-        if closest_resource and length <500:
-            route_tuple = (closest_resource[0] if len(closest_resource)==1 else closest_resource[1])
+        if method=="closest":
+            if self.player.researched_uranium():
+                resource, length = self.find_closest_type("uranium_researched", unit_position_cood, weight, self.mc.uranium_adj)
+            elif self.player.researched_coal():
+                resource, length = self.find_closest_type("coal_researched", unit_position_cood, weight, self.mc.coal_adj)
+            else:
+                resource, length = self.find_closest_type("wood", unit_position_cood, weight, self.mc.wood_adj)
+        elif method=="dist_wood":
+            resource, length = self.find_closest_type("wood", unit_position_cood, weight, self.mc.wood_dist)
+        elif method=="special":
+            if self.player.research_points > 185:
+                resource, length = self.find_closest_type("special", unit_position_cood, weight, self.mc.uranium_adj)
+            elif self.player.research_points > 25:
+                resource, length = self.find_closest_type("coal", unit_position_cood, weight, self.mc.coal_adj)
+            else:
+                resource=None
+                length=None
+        if resource and length <500:
+            route_tuple = (resource[0] if len(resource)==1 else resource[1])
             return self.move_unit_along_path(route_tuple, actions)
+        else: 
+            return False
 
     def use_unit(self, actions: list) -> Any:
         unit = self.unit
+        cur_cell = self.map.get_cell_by_pos(self.unit.pos)
+        id = int(self.unit.id[2:])
         unit_pos_tuple = (unit.pos.x, unit.pos.y)
         if unit.is_worker() and unit.can_act():
             if unit_pos_tuple in self.fuel_distribution_workers:
@@ -46,37 +61,37 @@ class UnitControler(BaseController):
                 route_tuple = closest_city_tile[1]
                 return self.move_unit_along_path(route_tuple, actions)
 
-            elif 100 > unit.get_cargo_space_left() > 0:
-                return self.get_closest_resource(actions, weight="weight_ac")
-            elif unit.get_cargo_space_left() > 0:
-                return self.get_closest_resource(actions)
-            else:
-                self.build_on_best_spot(actions)
-                        
+            elif unit.get_cargo_space_left() <= 20 and cur_cell.has_resource() and cur_cell.resource.type=="wood" and cur_cell.resource.amount >= 60:
+                if not self.build_on_best_spot(actions):
+                    return self.move_randomly(actions, unit_pos_tuple)
 
-    def move_randomly(self, source: tuple) -> tuple:
+            elif unit.get_cargo_space_left() == 0:
+                if not self.build_on_best_spot(actions):
+                    return self.move_randomly(actions, unit_pos_tuple)
+
+            elif id%3 == 0 and self.player.research_points > 25:
+                return self.get_closest_resource(actions, method="special")
+
+            elif id%2 == 0 and 6 > self.turn_cycle > 1:
+                if 100 > unit.get_cargo_space_left() > 20:
+                    self.get_closest_resource(actions, weight="weight_ac", method="dist_wood")
+                elif unit.get_cargo_space_left() == 100:
+                    return self.get_closest_resource(actions, method="dist_wood")
+                else:
+                    return self.get_closest_resource(actions, weight="weight_ac")
+            else:
+                return self.get_closest_resource(actions)
+
+
+    def move_randomly(self, actions, source: tuple) -> tuple:
         x = max(min(self.width-1, source[0] + random.randint(-1,1)), 0)
         y = max(min(self.width-1, source[1]+ random.randint(-1,1)), 0)
-        return (x, y)
-    
-    def find_fastest_route(self, source: tuple, target: tuple, avoid_cities: bool=False, weight="weight", max_length=500) -> tuple:
-        # # otherwise move to the fastest way to target
-        G = self.mc.graph_map
-        if not avoid_cities:
-            path = nx.dijkstra_path(G, source, target, weight="weight")
-            length = nx.shortest_path_length(G, source, target, weight="weight")
-        else:
-            path = nx.dijkstra_path(G, source, target, weight="weight_ac")
-            length = nx.shortest_path_length(G, source, target, weight="weight_ac")
-
-        if len(path)>1 and length < max_length:
-            path_out = path[1]
-        else:
-            path_out = self.move_randomly(source)
-        return path_out
+        route_cell = self.map.get_cell(x, y)
+        direction = self.unit.pos.direction_to(route_cell.pos)
+        return actions.append(self.unit.move(direction))
     
     # find closest route to node type
-    def find_closest_type(self, typeofnode, source, weight, matrix=False):
+    def find_closest_type(self, typeofnode, source, weight, matrix=False, multiplier=1):
         G = self.mc.graph_map
         #Calculate the length of paths from source to all other nodes
         lengths=nx.single_source_dijkstra_path_length(G, source, weight=weight)
@@ -84,9 +99,15 @@ class UnitControler(BaseController):
         #We are only interested in a particular type of node
         subnodes = [name for name, d in G.nodes(data=True) if (typeofnode in d['type'])]
         subdict = {k: v for k, v in lengths.items() if k in subnodes}
+        cargo_turns = (self.unit.cargo.wood/4)+self.unit.cargo.coal+self.unit.cargo.uranium >= 40
         if isinstance(matrix, np.ndarray):
             for i, j in subdict.items():
-                subdict[i] = j - matrix[i[0], i[1]]
+                if j < self.turns_until_night:
+                    subdict[i] = j*multiplier - matrix[i[0], i[1]]
+                elif cargo_turns and typeofnode != "settle":
+                    subdict[i] =  (j+(j-self.turns_until_night))*multiplier - matrix[i[0], i[1]]
+                else:
+                    subdict[i] = 99999
         #return the smallest of all lengths to get to typeofnode
         if subdict: 
             nearest =  min(subdict, key=subdict.get)
@@ -110,17 +131,23 @@ class UnitControler(BaseController):
         return actions.append(self.unit.move(direction))
 
 
-    def build_on_best_spot(self, actions: list):
+    def build_on_best_spot(self, actions: list, method="normal"):
         unit_position_cood = (self.unit.pos.x, self.unit.pos.y)
-        route = self.find_closest_type(typeofnode="empty", source=unit_position_cood, weight="weight_ac", matrix=self.mc.city_adj)
+        multiplier = 1
+        if self.turn < 60:
+            multiplier = 4
+        if method=="normal":
+            route = self.find_closest_type(typeofnode="settle", source=unit_position_cood, weight="weight_ac", matrix=self.mc.settle_value,multiplier=multiplier)
+        elif method == "spread":
+            route = self.find_closest_type(typeofnode="settle", source=unit_position_cood, weight="weight_ac", matrix=self.mc.wood_dist,multiplier=multiplier)
         if route[1] is not None and route[1] < 500:
             if len(route[0]) > 1:
                 route_tuple = route[0][1]
+                self.move_unit_along_path(route_tuple, actions)
+                return True
             else:
-                route_tuple = route[0][0]
-            build_spot = self.map.get_cell(route_tuple[0], route_tuple[1])
-
-            if self.unit.pos.equals(build_spot.pos):
-                actions.append(self.unit.build_city())
-            else:
-                return self.move_unit_along_path(route_tuple, actions)
+                if self.turns_until_night > 1:
+                    actions.append(self.unit.build_city())
+                return True
+        return None
+        
