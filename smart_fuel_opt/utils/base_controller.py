@@ -12,3 +12,4 @@ class BaseController:
             self.map = game_state.map
             self.turn = game_state.turn
             self.turns_until_night = max(30 - (game_state.turn%40),0)
+            self.turn_cycle = (self.turn//40)+1
