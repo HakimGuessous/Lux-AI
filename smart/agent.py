@@ -1,9 +1,16 @@
 from typing import overload
+from agent_objects.map_controller import MapController
 from lux.game import Game
 from lux.constants import Constants
-
+import logging
 from agent_objects.unit_controller import UnitControler
 from agent_objects.city_controller import CityController
+
+logging.basicConfig(filename="botlog.txt",
+                    filemode='w',
+                    level=logging.INFO,
+                    format='%(asctime)s %(levelname)-8s %(message)s',
+                    datefmt='%Y-%m-%d %H:%M:%S')
 
 DIRECTIONS = Constants.DIRECTIONS
 game_state = None
@@ -28,13 +35,12 @@ def agent(observation, configuration):
     opponent = game_state.players[(observation.player + 1) % 2]
 
     # we iterate over all our units and do something with them
-    
-    uc = UnitControler(game_state, observation)
-    uc.use_units(actions)
-
     # iterate over cities and do something
-    cc = CityController(game_state, observation)
+    mc = MapController(game_state, observation)
+    cc = CityController(game_state, observation, mc)
     cc.use_cities(actions)
 
+    uc = UnitControler(game_state, observation, cc.fuel_distribution_orders, cc.wood_exploit_orders, mc)
+    uc.use_units(actions)
     
     return actions

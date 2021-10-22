@@ -1,0 +1,585 @@
+2021-10-22 09:07:48 INFO     cities don't need fuel
+2021-10-22 09:07:49 INFO     cities don't need fuel
+2021-10-22 09:07:49 INFO     cities don't need fuel
+2021-10-22 09:07:50 INFO     cities don't need fuel
+2021-10-22 09:07:50 INFO     cities don't need fuel
+2021-10-22 09:07:50 INFO     cities don't need fuel
+2021-10-22 09:07:51 INFO     cities don't need fuel
+2021-10-22 09:07:51 INFO     cities don't need fuel
+2021-10-22 09:07:52 INFO     cities don't need fuel
+2021-10-22 09:07:52 INFO     cities don't need fuel
+2021-10-22 09:07:53 INFO     cities don't need fuel
+2021-10-22 09:07:53 INFO     cities don't need fuel
+2021-10-22 09:07:53 INFO     cities don't need fuel
+2021-10-22 09:07:54 INFO     cities don't need fuel
+2021-10-22 09:07:54 INFO     cities don't need fuel
+2021-10-22 09:07:55 INFO     cities don't need fuel
+2021-10-22 09:07:55 INFO     cities don't need fuel
+2021-10-22 09:07:56 INFO     cities don't need fuel
+2021-10-22 09:07:56 INFO     cities don't need fuel
+2021-10-22 09:07:57 INFO     cities don't need fuel
+2021-10-22 09:07:57 INFO     cities don't need fuel
+2021-10-22 09:07:58 INFO     cities don't need fuel
+2021-10-22 09:07:59 INFO     cities don't need fuel
+2021-10-22 09:07:59 INFO     cities don't need fuel
+2021-10-22 09:08:00 INFO     cities don't need fuel
+2021-10-22 09:08:01 INFO     turn - 25, orders - [[(5, 20), 'c_1'], [(4, 20), 'c_7']], solution - Optimal
+2021-10-22 09:08:01 INFO     turn - 26, orders - [], solution - Optimal
+2021-10-22 09:08:02 INFO     turn - 27, orders - [[(4, 20), 'c_5']], solution - Optimal
+2021-10-22 09:08:02 INFO     turn - 28, orders - [[(4, 20), 'c_5'], [(5, 202021-10-22 09:08:03 INFO     tu2021-10-22 09:08:03 INFO     turn - 29, o2021-10-22 09:08:04 INFO     turn - 30, orders - [], solution - Optimal
+2021-10-22 09:08:04 INFO     tu2021-10-22 09:08:04 INFO     turn - 31, o2021-10-22 09:08:05 INFO     turn - 32, orders - [], solution - Optimal
+2021-10-22 09:08:05 INFO     tu2021-10-22 09:08:05 INFO     turn - 33, o2021-10-22 09:08:06 INFO     turn - 34, orders - [], solution - Optimal
+2021-10-22 09:08:07 INFO     turn - 35, orders - [], solution - Optimal
+2021-10-22 09:08:07 INFO     tu2021-10-22 09:08:07 INFO     turn - 36, o2021-10-22 09:08:08 INFO     tu2021-10-22 09:08:08 INFO     turn - 37, o2021-10-22 09:08:09 INFO     turn - 38, orders - [], solution - Optimal
+2021-10-22 09:08:09 INFO     tu2021-10-22 09:08:09 INFO     turn - 39, o2021-10-22 09:08:10 INFO     tu2021-10-22 09:08:10 INFO     turn - 40, o2021-10-22 09:08:10 INFO     Ro2021-10-22 09:08:10 INFO     Route_0_0: 0.0
+2021-10-22 09:08:10 INFO     Route_0_1: 0.0
+2021-10-22 09:08:10 INFO     Route_y_0_0: 0.0
+2021-10-22 09:08:10 INFO     Route_y_0_1: 0.0
+2021-10-22 09:08:11 INFO     turn - 41, orders - [], solution - Optimal
+2021-10-22 09:08:11 INFO     turn - 42, orders - [], soluti2021-10-22 092021-10-22 09:08:12 INFO     turn - 43, orders - [], solution - Optimal
+2021-10-22 09:08:12 INFO     turn - 44, orders - [], solution - Optimal
+2021-10-22 09:08:13 INFO     turn - 45, orders - [], soluti2021-10-22 092021-10-22 09:08:13 INFO     turn - 46, orders - [], soluti2021-10-22 092021-10-22 09:08:14 INFO     turn - 47, orders - [], solution - Optimal
+2021-10-22 09:08:15 INFO     turn - 48, orders - [], solution - Optimal
+2021-10-22 09:08:15 INFO     turn - 49, orders - [], soluti2021-10-22 092021-10-22 09:08:16 INFO     turn - 50, orders - [], soluti2021-10-22 092021-10-22 09:08:16 INFO     turn - 51, orders - [], soluti2021-10-22 092021-10-22 09:08:17 INFO     turn - 52, orders - [], soluti2021-10-22 092021-10-22 09:08:18 INFO     turn - 53, orders - [], soluti2021-10-22 092021-10-22 09:08:18 INFO     turn - 54, orders - [], soluti2021-10-22 092021-10-22 09:08:19 INFO     turn - 55, orders - [], soluti2021-10-22 092021-10-22 09:08:19 INFO     turn - 56, orders - [], soluti2021-10-22 092021-10-22 09:08:20 INFO     turn - 57, orders - [], solution - Optimal
+2021-10-22 09:08:21 INFO     turn - 58, orders - [], solution - Optimal
+2021-10-22 09:08:21 INFO     turn - 59, orders - [], solution - Optimal
+2021-10-22 09:08:22 INFO     turn - 60, orders - [[(0, 22), 'c_12']], solution - Optimal
+2021-10-22 09:08:22 INFO     Route_0_0: 0.0
+2021-10-22 09:08:22 INFO     Route_0_1: 0.0
+2021-10-22 09:08:22 INFO     Route_0_2: 0.0
+2021-10-22 09:08:22 INFO     Route_0_3: 0.0
+2021-10-22 09:08:22 INFO     Route_0_4: 0.0
+2021-10-22 09:08:22 INFO     Route_0_5: 0.0
+2021-10-22 09:08:22 INFO     Route_1_0: 0.0
+2021-10-22 09:08:22 INFO     Route_1_1: 0.0
+2021-10-22 09:08:22 INFO     Route_1_2: 0.0
+2021-10-22 09:08:22 INFO     Route_1_3: 0.0
+2021-10-22 09:08:22 INFO     Route_1_4: 0.0
+2021-10-22 09:08:22 INFO     Route_1_5: 0.0
+2021-10-22 09:08:22 INFO     Route_2_0: 0.0
+2021-10-22 09:08:22 INFO     Route_2_1: 0.0
+2021-10-22 09:08:22 INFO     Route_2_2: 0.0
+2021-10-22 09:08:22 INFO     Route_22021-10-22 09:08:23 INFO     turn - 61, orders - [[(29, 20), 'c_19'], [(24, 17), 'c_19'], [(31, 22), 'c_19']], solution - Optimal
+2021-10-22 09:08:23 INFO     turn - 62, orders - [[(29, 20), 'c_19'], [(24, 17), 'c_19'], [(30, 23), 'c_19']], solution - Optimal
+2021-10-22 09:08:24 INFO     turn - 63, orders - [[(25, 17), 'c_19']], solution - Optimal
+2021-10-22 09:08:25 INFO     turn - 64, orders - [[(25, 17), 'c_19'], [(31, 22), 'c_19']], solution - Optimal
+2021-10-22 09:08:25 INFO     turn - 65, orders - [[(25, 18), 'c_19']], solution - Optimal
+2021-10-22 09:08:26 INFO     turn - 66, orders - [[(25, 18), 'c_19'], [(30, 23), 'c_19']], solution - Optimal
+2021-10-22 09:08:27 INFO     turn - 67, orders - [[(25, 19), 'c_19']], solution - Optimal
+2021-10-22 09:08:27 INFO     turn - 68, orders - [[(25, 19), 'c_19'], [(31, 22), 'c_19']], solution - Optimal
+2021-10-22 09:08:28 INFO     turn - 69, orders - [[(30, 23), 'c_19']], solution - Optimal
+2021-10-22 09:08:29 INFO     turn - 70, orders - [], solution - Optimal
+2021-10-22 09:08:29 INFO     turn - 71, orders - [], solution - Optimal
+2021-10-22 09:08:30 INFO     turn - 72, orders - [], solution - Optimal
+2021-10-22 09:08:31 INFO     turn - 73, orders - [], solution - Optimal
+2021-10-22 09:08:32 INFO     turn - 74, orders - [], solution - Optimal
+2021-10-22 09:08:32 INFO     turn - 75, orders - [], solution - Optimal
+2021-10-22 09:08:33 INFO     turn - 76, orders - [], solution - Optimal
+2021-10-22 09:08:34 INFO     turn - 77, orders - [], solution - Optimal
+2021-10-22 09:08:35 INFO     turn - 78, orders - [], solution - Optimal
+2021-10-22 09:08:35 INFO     turn - 79, orders - [], solution - Optimal
+2021-10-22 09:08:36 INFO     turn - 80, orders - [], solution - Optimal
+2021-10-22 09:08:36 INFO     __dummy: None
+2021-10-22 09:08:37 INFO     turn - 81, orders - [], solution - Optimal
+2021-10-22 09:08:38 INFO     turn - 82, orders - [], solution - Optimal
+2021-10-22 09:08:38 INFO     turn - 83, orders - [], solution - Optimal
+2021-10-22 09:08:39 INFO     turn - 84, orders - [], solution - Optimal
+2021-10-22 09:08:39 INFO     turn - 85, orders - [], solution - Optimal
+2021-10-22 09:08:40 INFO     turn - 86, orders - [], solution - Optimal
+2021-10-22 09:08:40 INFO     turn - 87, orders - [], solution - Optimal
+2021-10-22 09:08:41 INFO     turn - 88, orders - [], solution - Optimal
+2021-10-22 09:08:41 INFO     turn - 89, orders - [], solution - Optimal
+2021-10-22 09:08:42 INFO     turn - 90, orders - [], solution - Optimal
+2021-10-22 09:08:43 INFO     turn - 91, orders - [], solution - Optimal
+2021-10-22 09:08:43 INFO     turn - 92, orders - [], solution - Optimal
+2021-10-22 09:08:44 INFO     turn - 93, orders - [], solution - Optimal
+2021-10-22 09:08:44 INFO     turn - 94, orders - [], solution - Optimal
+2021-10-22 09:08:45 INFO     turn - 95, orders - [], solution - Optimal
+2021-10-22 09:08:45 INFO     turn - 96, orders - [], solution - Optimal
+2021-10-22 09:08:46 INFO     turn - 97, orders - [], solution - Optimal
+2021-10-22 09:08:46 INFO     turn - 98, orders - [], solution - Optimal
+2021-10-22 09:08:47 INFO     turn - 99, orders - [], solution - Optimal
+2021-10-22 09:08:47 INFO     turn - 100, orders - [], solution - Optimal
+2021-10-22 09:08:47 INFO     Route_0_0: 0.0
+2021-10-22 09:08:47 INFO     Route_0_1: 0.0
+2021-10-22 09:08:47 INFO     Route_y_0_0: 0.0
+2021-10-22 09:08:47 INFO     Route_y_0_1: 0.0
+2021-10-22 09:08:48 INFO     turn - 101, orders - [], solution - Optimal
+2021-10-22 09:08:48 INFO     turn - 102, orders - [], solution - Optimal
+2021-10-22 09:08:49 INFO     turn - 103, orders - [], solution - Optimal
+2021-10-22 09:08:50 INFO     turn - 104, orders - [], solution - Optimal
+2021-10-22 09:08:50 INFO     turn - 105, orders - [], solution - Optimal
+2021-10-22 09:08:51 INFO     turn - 106, orders - [], solution - Optimal
+2021-10-22 09:08:51 INFO     turn - 107, orders - [], solution - Optimal
+2021-10-22 09:08:52 INFO     turn - 108, orders - [], solution - Optimal
+2021-10-22 09:08:52 INFO     turn - 109, orders - [], solution - Optimal
+2021-10-22 09:08:53 INFO     turn - 110, orders - [], solution - Optimal
+2021-10-22 09:08:54 INFO     cities don't need fuel
+2021-10-22 09:08:54 INFO     cities don't need fuel
+2021-10-22 09:08:55 INFO     cities don't need fuel
+2021-10-22 09:08:55 INFO     cities don't need fuel
+2021-10-22 09:08:56 INFO     cities don't need fuel
+2021-10-22 09:08:56 INFO     cities don't need fuel
+2021-10-22 09:08:57 INFO     cities don't need fuel
+2021-10-22 09:08:57 INFO     cities don't need fuel
+2021-10-22 09:08:58 INFO     cities don't need fuel
+2021-10-22 09:08:59 INFO     cities don't need fuel
+2021-10-22 09:08:59 INFO     cities don't need fuel
+2021-10-22 09:09:00 INFO     turn - 122, orders - [], solution - Optimal
+2021-10-22 09:09:00 INFO     turn - 123, orders - [], solution - Optimal
+2021-10-22 09:09:01 INFO     turn - 124, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:02 INFO     turn - 125, orders - [], solution - Optimal
+2021-10-22 09:09:02 INFO     turn - 126, orders - [], solution - Optimal
+2021-10-22 09:09:03 INFO     turn - 127, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:03 INFO     turn - 128, orders - [], solution - Optimal
+2021-10-22 09:09:04 INFO     turn - 129, orders - [], solution - Optimal
+2021-10-22 09:09:04 INFO     turn - 130, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:05 INFO     turn - 131, orders - [], solution - Optimal
+2021-10-22 09:09:05 INFO     turn - 132, orders - [], solution - Optimal
+2021-10-22 09:09:06 INFO     turn - 133, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:06 INFO     turn - 134, orders - [], solution - Optimal
+2021-10-22 09:09:07 INFO     turn - 135, orders - [], solution - Optimal
+2021-10-22 09:09:08 INFO     turn - 136, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:08 INFO     turn - 137, orders - [], solution - Optimal
+2021-10-22 09:09:09 INFO     turn - 138, orders - [], solution - Optimal
+2021-10-22 09:09:09 INFO     turn - 139, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:10 INFO     turn - 140, orders - [], solution - Optimal
+2021-10-22 09:09:10 INFO     __dummy: None
+2021-10-22 09:09:11 INFO     turn - 141, orders - [], solution - Optimal
+2021-10-22 09:09:11 INFO     turn - 142, orders - [], solution - Optimal
+2021-10-22 09:09:12 INFO     turn - 143, orders - [], solution - Optimal
+2021-10-22 09:09:13 INFO     turn - 144, orders - [], solution - Optimal
+2021-10-22 09:09:13 INFO     turn - 145, orders - [], solution - Optimal
+2021-10-22 09:09:14 INFO     turn - 146, orders - [], solution - Optimal
+2021-10-22 09:09:15 INFO     turn - 147, orders - [], solution - Optimal
+2021-10-22 09:09:15 INFO     turn - 148, orders - [], solution - Optimal
+2021-10-22 09:09:16 INFO     turn - 149, orders - [], solution - Optimal
+2021-10-22 09:09:17 INFO     turn - 150, orders - [], solution - Optimal
+2021-10-22 09:09:17 INFO     turn - 151, orders - [], solution - Optimal
+2021-10-22 09:09:18 INFO     turn - 152, orders - [], solution - Optimal
+2021-10-22 09:09:19 INFO     turn - 153, orders - [], solution - Optimal
+2021-10-22 09:09:19 INFO     turn - 154, orders - [], solution - Optimal
+2021-10-22 09:09:20 INFO     turn - 155, orders - [], solution - Optimal
+2021-10-22 09:09:20 INFO     turn - 156, orders - [], solution - Optimal
+2021-10-22 09:09:21 INFO     turn - 157, orders - [], solution - Optimal
+2021-10-22 09:09:21 INFO     turn - 158, orders - [], solution - Optimal
+2021-10-22 09:09:22 INFO     turn - 159, orders - [], solution - Optimal
+2021-10-22 09:09:22 INFO     turn - 160, orders - [], solution - Optimal
+2021-10-22 09:09:22 INFO     Route_0_0: 0.0
+2021-10-22 09:09:22 INFO     Route_y_0_0: 0.0
+2021-10-22 09:09:23 INFO     turn - 161, orders - [], solution - Optimal
+2021-10-22 09:09:24 INFO     turn - 162, orders - [], solution - Optimal
+2021-10-22 09:09:24 INFO     turn - 163, orders - [], solution - Optimal
+2021-10-22 09:09:25 INFO     turn - 164, orders - [], solution - Optimal
+2021-10-22 09:09:26 INFO     turn - 165, orders - [], solution - Optimal
+2021-10-22 09:09:26 INFO     turn - 166, orders - [], solution - Optimal
+2021-10-22 09:09:27 INFO     turn - 167, orders - [], solution - Optimal
+2021-10-22 09:09:27 INFO     turn - 168, orders - [], solution - Optimal
+2021-10-22 09:09:28 INFO     turn - 169, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:28 INFO     turn - 170, orders - [], solution - Optimal
+2021-10-22 09:09:29 INFO     turn - 171, orders - [], solution - Optimal
+2021-10-22 09:09:30 INFO     turn - 172, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:30 INFO     turn - 173, orders - [], solution - Optimal
+2021-10-22 09:09:31 INFO     turn - 174, orders - [[(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:32 INFO     turn - 175, orders - [[(18, 18), 'c_27']], solution - Optimal
+2021-10-22 09:09:32 INFO     turn - 176, orders - [], solution - Optimal
+2021-10-22 09:09:33 INFO     turn - 177, orders - [], solution - Optimal
+2021-10-22 09:09:33 INFO     turn - 178, orders - [[(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:34 INFO     turn - 179, orders - [], solution - Optimal
+2021-10-22 09:09:35 INFO     turn - 180, orders - [], solution - Optimal
+2021-10-22 09:09:35 INFO     Route_0_0: 0.0
+2021-10-22 09:09:35 INFO     Route_y_0_0: 0.0
+2021-10-22 09:09:35 INFO     turn - 181, orders - [], solution - Optimal
+2021-10-22 09:09:36 INFO     turn - 182, orders - [[(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:37 INFO     turn - 183, orders - [], solution - Optimal
+2021-10-22 09:09:37 INFO     turn - 184, orders - [], solution - Optimal
+2021-10-22 09:09:38 INFO     turn - 185, orders - [], solution - Optimal
+2021-10-22 09:09:38 INFO     turn - 186, orders - [[(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:39 INFO     turn - 187, orders - [], solution - Optimal
+2021-10-22 09:09:40 INFO     turn - 188, orders - [], solution - Optimal
+2021-10-22 09:09:40 INFO     turn - 189, orders - [], solution - Optimal
+2021-10-22 09:09:41 INFO     turn - 190, orders - [], solution - Optimal
+2021-10-22 09:09:42 INFO     turn - 191, orders - [], solution - Optimal
+2021-10-22 09:09:42 INFO     turn - 192, orders - [], solution - Optimal
+2021-10-22 09:09:43 INFO     turn - 193, orders - [], solution - Optimal
+2021-10-22 09:09:44 INFO     turn - 194, orders - [], solution - Optimal
+2021-10-22 09:09:44 INFO     turn - 195, orders - [], solution - Optimal
+2021-10-22 09:09:45 INFO     turn - 196, orders - [], solution - Optimal
+2021-10-22 09:09:46 INFO     turn - 197, orders - [], solution - Optimal
+2021-10-22 09:09:46 INFO     turn - 198, orders - [], solution - Optimal
+2021-10-22 09:09:47 INFO     turn - 199, orders - [], solution - Optimal
+2021-10-22 09:09:48 INFO     turn - 200, orders - [], solution - Optimal
+2021-10-22 09:09:48 INFO     __dummy: None
+2021-10-22 09:09:49 INFO     turn - 201, orders - [], solution - Optimal
+2021-10-22 09:09:49 INFO     turn - 202, orders - [], solution - Optimal
+2021-10-22 09:09:50 INFO     turn - 203, orders - [], solution - Optimal
+2021-10-22 09:09:50 INFO     turn - 204, orders - [], solution - Optimal
+2021-10-22 09:09:51 INFO     turn - 205, orders - [[(25, 29), 'c_33']], solution - Optimal
+2021-10-22 09:09:52 INFO     turn - 206, orders - [[(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:52 INFO     turn - 207, orders - [[(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:53 INFO     turn - 208, orders - [], solution - Optimal
+2021-10-22 09:09:54 INFO     turn - 209, orders - [], solution - Optimal
+2021-10-22 09:09:54 INFO     turn - 210, orders - [[(17, 19), 'c_33']], solution - Optimal
+2021-10-22 09:09:55 INFO     turn - 211, orders - [[(17, 20), 'c_33']], solution - Optimal
+2021-10-22 09:09:55 INFO     turn - 212, orders - [[(17, 20), 'c_33']], solution - Optimal
+2021-10-22 09:09:56 INFO     turn - 213, orders - [[(18, 20), 'c_33'], [(25, 29), 'c_33']], solution - Optimal
+2021-10-22 09:09:57 INFO     turn - 214, orders - [[(18, 20), 'c_33'], [(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:57 INFO     turn - 215, orders - [[(19, 20), 'c_33'], [(25, 30), 'c_33']], solution - Optimal
+2021-10-22 09:09:58 INFO     turn - 216, orders - [[(19, 20), 'c_33']], solution - Optimal
+2021-10-22 09:09:59 INFO     turn - 217, orders - [[(20, 20), 'c_33']], solution - Optimal
+2021-10-22 09:09:59 INFO     turn - 218, orders - [[(20, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:00 INFO     turn - 219, orders - [[(21, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:01 INFO     turn - 220, orders - [[(21, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:01 INFO     Route_0_0: 0.0
+2021-10-22 09:10:01 INFO     Route_1_0: 1000.0
+2021-10-22 09:10:01 INFO     Route_y_0_0: 0.0
+2021-10-22 09:10:01 INFO     Route_y_1_0: 1.0
+2021-10-22 09:10:01 INFO     turn - 221, orders - [[(22, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:02 INFO     turn - 222, orders - [[(22, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:03 INFO     turn - 223, orders - [[(23, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:03 INFO     turn - 224, orders - [[(23, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:04 INFO     turn - 225, orders - [[(24, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:05 INFO     turn - 226, orders - [[(24, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:05 INFO     turn - 227, orders - [[(25, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:06 INFO     turn - 228, orders - [[(25, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:07 INFO     turn - 229, orders - [[(26, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:08 INFO     turn - 230, orders - [[(26, 20), 'c_33']], solution - Optimal
+2021-10-22 09:10:08 INFO     turn - 231, orders - [[(26, 21), 'c_33']], solution - Optimal
+2021-10-22 09:10:09 INFO     turn - 232, orders - [[(26, 21), 'c_33']], solution - Optimal
+2021-10-22 09:10:10 INFO     turn - 233, orders - [[(26, 21), 'c_33']], solution - Optimal
+2021-10-22 09:10:10 INFO     turn - 234, orders - [[(26, 21), 'c_33']], solution - Optimal
+2021-10-22 09:10:11 INFO     turn - 235, orders - [[(26, 22), 'c_33']], solution - Optimal
+2021-10-22 09:10:11 INFO     turn - 236, orders - [[(26, 22), 'c_33']], solution - Optimal
+2021-10-22 09:10:12 INFO     turn - 237, orders - [[(26, 22), 'c_33']], solution - Optimal
+2021-10-22 09:10:13 INFO     turn - 238, orders - [[(26, 22), 'c_33']], solution - Optimal
+2021-10-22 09:10:13 INFO     turn - 239, orders - [[(26, 23), 'c_33']], solution - Optimal
+2021-10-22 09:10:14 INFO     turn - 240, orders - [[(26, 23), 'c_33']], solution - Optimal
+2021-10-22 09:10:14 INFO     Route_0_0: 0.0
+2021-10-22 09:10:14 INFO     Route_1_0: 0.0
+2021-10-22 09:10:14 INFO     Route_2_0: 900.0
+2021-10-22 09:10:14 INFO     Route_3_0: 0.0
+2021-10-22 09:10:14 INFO     Route_y_0_0: 0.0
+2021-10-22 09:10:14 INFO     Route_y_1_0: 0.0
+2021-10-22 09:10:14 INFO     Route_y_2_0: 1.0
+2021-10-22 09:10:14 INFO     Route_y_3_0: 0.0
+2021-10-22 09:10:15 INFO     turn - 241, orders - [[(26, 23), 'c_33']], solution - Optimal
+2021-10-22 09:10:15 INFO     turn - 242, orders - [[(26, 23), 'c_33']], solution - Optimal
+2021-10-22 09:10:16 INFO     turn - 243, orders - [[(26, 24), 'c_33']], solution - Optimal
+2021-10-22 09:10:17 INFO     turn - 244, orders - [[(26, 24), 'c_33']], solution - Optimal
+2021-10-22 09:10:17 INFO     turn - 245, orders - [[(26, 25), 'c_33']], solution - Optimal
+2021-10-22 09:10:18 INFO     turn - 246, orders - [[(26, 25), 'c_33']], solution - Optimal
+2021-10-22 09:10:19 INFO     turn - 247, orders - [[(26, 26), 'c_33'], [(15, 18), 'c_27']], solution - Optimal
+2021-10-22 09:10:19 INFO     turn - 248, orders - [[(26, 26), 'c_33']], solution - Optimal
+2021-10-22 09:10:20 INFO     turn - 249, orders - [[(26, 27), 'c_33']], solution - Optimal
+2021-10-22 09:10:21 INFO     turn - 250, orders - [[(26, 27), 'c_39'], [(15, 18), 'c_27']], solution - Optimal
+2021-10-22 09:10:21 INFO     turn - 251, orders - [[(27, 27), 'c_39'], [(16, 19), 'c_27']], solution - Optimal
+2021-10-22 09:10:22 INFO     turn - 252, orders - [[(27, 27), 'c_39']], solution - Optimal
+2021-10-22 09:10:23 INFO     turn - 253, orders - [[(28, 27), 'c_39']], solution - Optimal
+2021-10-22 09:10:23 INFO     turn - 254, orders - [[(28, 27), 'c_39']], solution - Optimal
+2021-10-22 09:10:24 INFO     turn - 255, orders - [[(29, 27), 'c_39'], [(16, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:25 INFO     turn - 256, orders - [[(29, 27), 'c_39']], solution - Optimal
+2021-10-22 09:10:25 INFO     turn - 257, orders - [[(30, 27), 'c_39']], solution - Optimal
+2021-10-22 09:10:26 INFO     turn - 258, orders - [[(30, 27), 'c_39']], solution - Optimal
+2021-10-22 09:10:27 INFO     turn - 259, orders - [[(31, 27), 'c_39'], [(15, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:27 INFO     turn - 260, orders - [[(31, 27), 'c_39'], [(15, 21), 'c_40']], solution - Optimal
+2021-10-22 09:10:27 INFO     Route_0_0: 0.0
+2021-10-22 09:10:27 INFO     Route_0_1: 0.0
+2021-10-22 09:10:27 INFO     Route_0_2: 900.0
+2021-10-22 09:10:27 INFO     Route_0_3: 0.0
+2021-10-22 09:10:27 INFO     Route_1_0: 0.0
+2021-10-22 09:10:27 INFO     Route_1_1: 0.0
+2021-10-22 09:10:27 INFO     Route_1_2: 0.0
+2021-10-22 09:10:27 INFO     Route_1_3: 0.0
+2021-10-22 09:10:27 INFO     Route_2_0: 0.0
+2021-10-22 09:10:27 INFO     Route_2_1: 0.0
+2021-10-22 09:10:27 INFO     Route_2_2: 0.0
+2021-10-22 09:10:27 INFO     Route_2_3: 0.0
+2021-10-22 09:10:27 INFO     Route_3_0: 0.0
+2021-10-22 09:10:27 INFO     Route_3_1: 140.0
+2021-10-22 09:10:27 INFO     Route_3_2: 0.0
+2021-10-22 09:10:27 INFO     Route_3_3: 0.0
+2021-10-22 09:10:27 INFO     Route_4_0: 0.0
+2021-10-22 09:10:27 INFO     Route_4_1: 0.0
+2021-10-22 09:10:27 INFO     Route_4_2: 0.0
+2021-10-22 09:10:27 INFO     Route_4_3: 0.0
+2021-10-22 09:10:27 INFO     Route_5_0: 0.0
+2021-10-22 09:10:27 INFO     Route_5_1: 0.0
+2021-10-22 09:10:27 INFO     Route_5_2: 0.0
+2021-10-22 09:10:27 INFO     Route_5_3: 0.0
+2021-10-22 09:10:27 INFO     Route_y_0_0: 0.0
+2021-10-22 09:10:27 INFO     Route_y_0_1: 0.0
+2021-10-22 09:10:27 INFO     Route_y_0_2: 1.0
+2021-10-22 09:10:27 INFO     Route_y_0_3: 0.0
+2021-10-22 09:10:27 INFO     Route_y_1_0: 0.0
+2021-10-22 09:10:27 INFO     Route_y_1_1: 0.0
+2021-10-22 09:10:27 INFO     Route_y_1_2: 0.0
+2021-10-22 09:10:27 INFO     Route_y_1_3: 0.0
+2021-10-22 09:10:27 INFO     Route_y_2_0: 0.0
+2021-10-22 09:10:27 INFO     Route_y_2_1: 0.0
+2021-10-22 09:10:27 INFO     Route_y_2_2: 0.0
+2021-10-22 09:10:27 INFO     Route_y_2_3: 0.0
+2021-10-22 09:10:27 INFO     Route_y_3_0: 0.0
+2021-10-22 09:10:27 INFO     Route_y_3_1: 1.0
+2021-10-22 09:10:27 INFO     Route_y_3_2: 0.0
+2021-10-22 09:10:27 INFO     Route_y_3_3: 0.0
+2021-10-22 09:10:27 INFO     Route_y_4_0: 0.0
+2021-10-22 09:10:27 INFO     Route_y_4_1: 0.0
+2021-10-22 09:10:27 INFO     Route_y_4_2: 0.0
+2021-10-22 09:10:27 INFO     Route_y_4_3: 0.0
+2021-10-22 09:10:27 INFO     Route_y_5_0: 0.0
+2021-10-22 09:10:27 INFO     Route_y_5_1: 0.0
+2021-10-22 09:10:27 INFO     Route_y_5_2: 0.0
+2021-10-22 09:10:27 INFO     Route_y_5_3: 0.0
+2021-10-22 09:10:28 INFO     turn - 261, orders - [[(15, 21), 'c_40']], solution - Optimal
+2021-10-22 09:10:29 INFO     turn - 262, orders - [[(16, 21), 'c_40'], [(15, 25), 'c_41']], solution - Optimal
+2021-10-22 09:10:30 INFO     turn - 263, orders - [[(16, 21), 'c_40']], solution - Optimal
+2021-10-22 09:10:30 INFO     turn - 264, orders - [[(17, 21), 'c_40']], solution - Optimal
+2021-10-22 09:10:31 INFO     turn - 265, orders - [[(17, 21), 'c_40'], [(15, 25), 'c_40']], solution - Optimal
+2021-10-22 09:10:32 INFO     turn - 266, orders - [[(17, 22), 'c_40'], [(16, 25), 'c_40']], solution - Optimal
+2021-10-22 09:10:33 INFO     turn - 267, orders - [[(17, 22), 'c_40'], [(16, 25), 'c_40']], solution - Optimal
+2021-10-22 09:10:33 INFO     turn - 268, orders - [[(17, 23), 'c_40'], [(16, 24), 'c_40']], solution - Optimal
+2021-10-22 09:10:34 INFO     turn - 269, orders - [[(15, 18), 'c_42'], [(17, 23), 'c_40']], solution - Optimal
+2021-10-22 09:10:35 INFO     turn - 270, orders - [[(14, 17), 'c_40']], solution - Optimal
+2021-10-22 09:10:36 INFO     turn - 271, orders - [[(14, 18), 'c_40']], solution - Optimal
+2021-10-22 09:10:37 INFO     turn - 272, orders - [[(14, 18), 'c_40']], solution - Optimal
+2021-10-22 09:10:38 INFO     turn - 273, orders - [[(14, 18), 'c_40']], solution - Optimal
+2021-10-22 09:10:39 INFO     turn - 274, orders - [[(14, 18), 'c_40']], solution - Optimal
+2021-10-22 09:10:40 INFO     turn - 275, orders - [[(14, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:40 INFO     turn - 276, orders - [[(14, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:41 INFO     turn - 277, orders - [[(14, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:42 INFO     turn - 278, orders - [[(14, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:43 INFO     turn - 279, orders - [[(14, 20), 'c_40']], solution - Optimal
+2021-10-22 09:10:44 INFO     turn - 280, orders - [[(14, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:44 INFO     Route_0_0: 920.0
+2021-10-22 09:10:44 INFO     Route_0_1: 0.0
+2021-10-22 09:10:44 INFO     Route_0_2: 0.0
+2021-10-22 09:10:44 INFO     Route_0_3: 0.0
+2021-10-22 09:10:44 INFO     Route_1_0: 0.0
+2021-10-22 09:10:44 INFO     Route_1_1: 0.0
+2021-10-22 09:10:44 INFO     Route_1_2: 0.0
+2021-10-22 09:10:44 INFO     Route_1_3: 0.0
+2021-10-22 09:10:44 INFO     Route_2_0: 0.0
+2021-10-22 09:10:44 INFO     Route_2_1: 0.0
+2021-10-22 09:10:44 INFO     Route_2_2: 0.0
+2021-10-22 09:10:44 INFO     Route_2_3: 0.0
+2021-10-22 09:10:44 INFO     Route_y_0_0: 1.0
+2021-10-22 09:10:44 INFO     Route_y_0_1: 0.0
+2021-10-22 09:10:44 INFO     Route_y_0_2: 0.0
+2021-10-22 09:10:44 INFO     Route_y_0_3: 0.0
+2021-10-22 09:10:44 INFO     Route_y_1_0: 0.0
+2021-10-22 09:10:44 INFO     Route_y_1_1: 0.0
+2021-10-22 09:10:44 INFO     Route_y_1_2: 0.0
+2021-10-22 09:10:44 INFO     Route_y_1_3: 0.0
+2021-10-22 09:10:44 INFO     Route_y_2_0: 0.0
+2021-10-22 09:10:44 INFO     Route_y_2_1: 0.0
+2021-10-22 09:10:44 INFO     Route_y_2_2: 0.0
+2021-10-22 09:10:44 INFO     Route_y_2_3: 0.0
+2021-10-22 09:10:45 INFO     turn - 281, orders - [[(14, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:46 INFO     turn - 282, orders - [[(14, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:46 INFO     turn - 283, orders - [[(14, 21), 'c_41'], [(14, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:47 INFO     turn - 284, orders - [[(14, 21), 'c_41'], [(14, 20), 'c_40']], solution - Optimal
+2021-10-22 09:10:48 INFO     turn - 285, orders - [[(14, 22), 'c_40'], [(14, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:48 INFO     turn - 286, orders - [[(14, 22), 'c_40'], [(14, 21), 'c_41']], solution - Optimal
+2021-10-22 09:10:49 INFO     turn - 287, orders - [[(14, 22), 'c_41'], [(14, 21), 'c_40']], solution - Optimal
+2021-10-22 09:10:50 INFO     turn - 288, orders - [[(15, 21), 'c_40'], [(14, 19), 'c_40']], solution - Optimal
+2021-10-22 09:10:50 INFO     turn - 289, orders - [[(15, 21), 'c_40'], [(14, 20), 'c_40']], solution - Optimal
+2021-10-22 09:10:51 INFO     turn - 290, orders - [[(16, 21), 'c_40'], [(14, 20), 'c_40']], solution - Optimal
+2021-10-22 09:10:52 INFO     turn - 291, orders - [[(16, 21), 'c_40'], [(13, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:53 INFO     turn - 292, orders - [[(16, 22), 'c_40'], [(13, 20), 'c_40']], solution - Optimal
+2021-10-22 09:10:53 INFO     turn - 293, orders - [[(16, 22), 'c_40'], [(13, 21), 'c_41']], solution - Optimal
+2021-10-22 09:10:54 INFO     turn - 294, orders - [[(17, 22), 'c_40'], [(13, 21), 'c_41']], solution - Optimal
+2021-10-22 09:10:55 INFO     turn - 295, orders - [[(17, 22), 'c_40'], [(13, 22), 'c_40']], solution - Optimal
+2021-10-22 09:10:56 INFO     turn - 296, orders - [[(17, 23), 'c_40'], [(13, 22), 'c_40']], solution - Optimal
+2021-10-22 09:10:56 INFO     turn - 297, orders - [[(17, 23), 'c_40'], [(14, 22), 'c_40']], solution - Optimal
+2021-10-22 09:10:57 INFO     turn - 298, orders - [[(14, 22), 'c_41']], solution - Optimal
+2021-10-22 09:10:58 INFO     turn - 299, orders - [[(14, 20), 'c_41']], solution - Optimal
+2021-10-22 09:10:59 INFO     turn - 300, orders - [[(14, 21), 'c_41']], solution - Optimal
+2021-10-22 09:10:59 INFO     Route_0_0: 0.0
+2021-10-22 09:10:59 INFO     Route_0_1: 150.0
+2021-10-22 09:10:59 INFO     Route_0_2: 0.0
+2021-10-22 09:10:59 INFO     Route_0_3: 0.0
+2021-10-22 09:10:59 INFO     Route_1_0: 0.0
+2021-10-22 09:10:59 INFO     Route_1_1: 0.0
+2021-10-22 09:10:59 INFO     Route_1_2: 0.0
+2021-10-22 09:10:59 INFO     Route_1_3: 0.0
+2021-10-22 09:10:59 INFO     Route_2_0: 0.0
+2021-10-22 09:10:59 INFO     Route_2_1: 0.0
+2021-10-22 09:10:59 INFO     Route_2_2: 0.0
+2021-10-22 09:10:59 INFO     Route_2_3: 0.0
+2021-10-22 09:10:59 INFO     Route_3_0: 0.0
+2021-10-22 09:10:59 INFO     Route_3_1: 0.0
+2021-10-22 09:10:59 INFO     Route_3_2: 0.0
+2021-10-22 09:10:59 INFO     Route_3_3: 0.0
+2021-10-22 09:10:59 INFO     Route_4_0: 0.0
+2021-10-22 09:10:59 INFO     Route_4_1: 0.0
+2021-10-22 09:10:59 INFO     Route_4_2: 0.0
+2021-10-22 09:10:59 INFO     Route_4_3: 0.0
+2021-10-22 09:10:59 INFO     Route_5_0: 0.0
+2021-10-22 09:10:59 INFO     Route_5_1: 0.0
+2021-10-22 09:10:59 INFO     Route_5_2: 0.0
+2021-10-22 09:10:59 INFO     Route_5_3: 0.0
+2021-10-22 09:10:59 INFO     Route_6_0: 0.0
+2021-10-22 09:10:59 INFO     Route_6_1: 0.0
+2021-10-22 09:10:59 INFO     Route_6_2: 0.0
+2021-10-22 09:10:59 INFO     Route_6_3: 0.0
+2021-10-22 09:10:59 INFO     Route_7_0: 0.0
+2021-10-22 09:10:59 INFO     Route_7_1: 0.0
+2021-10-22 09:10:59 INFO     Route_7_2: 0.0
+2021-10-22 09:10:59 INFO     Route_7_3: 0.0
+2021-10-22 09:10:59 INFO     Route_y_0_0: 0.0
+2021-10-22 09:10:59 INFO     Route_y_0_1:2021-10-22 09:11:00 INFO     turn - 301, orders - [[(6, 16), 'c_26']], solution - Optimal
+2021-10-22 09:11:01 INFO     turn - 302, orders - [[(6, 17), 'c_26']], solution - Optimal
+2021-10-22 09:11:02 INFO     turn - 303, orders - [[(6, 17), 'c_26']], solution - Optimal
+2021-10-22 09:11:03 INFO     turn - 304, orders - [[(6, 18), 'c_26']], solution - Optimal
+2021-10-22 09:11:03 INFO     turn - 305, orders - [[(6, 18), 'c_26'], [(0, 25), 'c_43']], solution - Optimal
+2021-10-22 09:11:04 INFO     turn - 306, orders - [[(6, 19), 'c_26']], solution - Optimal
+2021-10-22 09:11:05 INFO     turn - 307, orders - [[(6, 19), 'c_26']], solution - Optimal
+2021-10-22 09:11:06 INFO     turn - 308, orders - [[(6, 20), 'c_26']], solution - Optimal
+2021-10-22 09:11:07 INFO     turn - 309, orders - [[(6, 20), 'c_26'], [(0, 25), 'c_43']], solution - Optimal
+2021-10-22 09:11:08 INFO     turn - 310, orders - [[(6, 21), 'c_26']], solution - Optimal
+2021-10-22 09:11:09 INFO     turn - 311, orders - [], solution - Optimal
+2021-10-22 09:11:10 INFO     turn - 312, orders - [], solution - Optimal
+2021-10-22 09:11:11 INFO     turn - 313, orders - [], solution - Optimal
+2021-10-22 09:11:12 INFO     turn - 314, orders - [], solution - Optimal
+2021-10-22 09:11:13 INFO     turn - 315, orders - [], solution - Optimal
+2021-10-22 09:11:14 INFO     turn - 316, orders - [], solution - Optimal
+2021-10-22 09:11:15 INFO     turn - 317, orders - [], solution - Optimal
+2021-10-22 09:11:16 INFO     turn - 318, orders - [], solution - Optimal
+2021-10-22 09:11:16 INFO     turn - 319, orders - [], solution - Optimal
+2021-10-22 09:11:17 INFO     turn - 320, orders - [[(7, 19), 'c_26']], solution - Optimal
+2021-10-22 09:11:17 INFO     Route_0_0: 770.0
+2021-10-22 09:11:17 INFO     Route_1_0: 0.0
+2021-10-22 09:11:17 INFO     Route_2_0: 0.0
+2021-10-22 09:11:17 INFO     Route_y_0_0: 1.0
+2021-10-22 09:11:17 INFO     Route_y_1_0: 0.0
+2021-10-22 09:11:17 INFO     Route_y_2_0: 0.0
+2021-10-22 09:11:18 INFO     turn - 321, orders - [[(7, 19), 'c_26']], solution - Optimal
+2021-10-22 09:11:19 INFO     turn - 322, orders - [[(7, 19), 'c_26']], solution - Optimal
+2021-10-22 09:11:20 INFO     turn - 323, orders - [[(7, 19), 'c_26']], solution - Optimal
+2021-10-22 09:11:20 INFO     turn - 324, orders - [[(7, 20), 'c_26']], solution - Optimal
+2021-10-22 09:11:21 INFO     turn - 325, orders - [[(7, 20), 'c_26']], solution - Optimal
+2021-10-22 09:11:22 INFO     turn - 326, orders - [[(7, 21), 'c_26']], solution - Optimal
+2021-10-22 09:11:23 INFO     turn - 327, orders - [[(7, 21), 'c_26']], solution - Optimal
+2021-10-22 09:11:23 INFO     turn - 328, orders - [[(7, 22), 'c_26']], solution - Optimal
+2021-10-22 09:11:24 INFO     turn - 329, orders - [[(7, 22), 'c_26']], solution - Optimal
+2021-10-22 09:11:25 INFO     turn - 330, orders - [[(7, 23), 'c_26']], solution - Optimal
+2021-10-22 09:11:26 INFO     turn - 331, orders - [[(7, 23), 'c_26']], solution - Optimal
+2021-10-22 09:11:26 INFO     turn - 332, orders - [[(8, 23), 'c_26']], solution - Optimal
+2021-10-22 09:11:27 INFO     turn - 333, orders - [[(8, 23), 'c_26']], solution - Optimal
+2021-10-22 09:11:28 INFO     turn - 334, orders - [[(8, 24), 'c_26']], solution - Optimal
+2021-10-22 09:11:29 INFO     turn - 335, orders - [[(8, 24), 'c_26']], solution - Optimal
+2021-10-22 09:11:29 INFO     turn - 336, orders - [[(8, 25), 'c_26']], solution - Optimal
+2021-10-22 09:11:30 INFO     turn - 337, orders - [[(8, 25), 'c_26']], solution - Optimal
+2021-10-22 09:11:31 INFO     turn - 338, orders - [[(8, 26), 'c_26']], solution - Optimal
+2021-10-22 09:11:32 INFO     turn - 339, orders - [[(8, 26), 'c_26']], solution - Optimal
+2021-10-22 09:11:33 INFO     turn - 340, orders - [[(8, 27), 'c_26']], solution - Optimal
+2021-10-22 09:11:33 INFO     Route_0_0: 0.0
+2021-10-22 09:11:33 INFO     Route_0_1: 770.0
+2021-10-22 09:11:33 INFO     Route_0_2: 0.0
+2021-10-22 09:11:33 INFO     Route_1_0: 0.0
+2021-10-22 09:11:33 INFO     Route_1_1: 0.0
+2021-10-22 09:11:33 INFO     Route_1_2: 0.0
+2021-10-22 09:11:33 INFO     Route_2_0: 0.0
+2021-10-22 09:11:33 INFO     Route_2_1: 0.0
+2021-10-22 09:11:33 INFO     Route_2_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_0_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_0_1: 1.0
+2021-10-22 09:11:33 INFO     Route_y_0_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_2: 0.0
+2021-10-22 09:11:34 INFO     turn - 341, orders - [[(8, 27), 'c_26']], solution - Optimal
+2021-10-22 09:11:34 INFO     turn - 342, orders - [[(8, 28), 'c_26']], solution - Optimal
+2021-10-22 09:11:35 INFO     turn - 343, orders - [[(8, 28), 'c_26']], solution - Optimal
+2021-10-22 09:11:36 INFO     turn - 344, orders - [[(8, 29), 'c_26']], solution - Optimal
+2021-10-22 09:11:37 INFO     turn - 345, orders - [[(8, 29), 'c_26'], [(9, 12), 'c_50'], [(7, 13), 'c_50']], solution - Optimal
+2021-10-22 09:11:38 INFO     turn - 346, orders - [[(9, 11), 'c_50'], [(8, 13), 'c_47']], solution - Optimal
+2021-10-22 09:11:39 INFO     turn - 347, orders - [[(9, 11), 'c_50'], [(8, 13), 'c_47']], solution - Optimal
+2021-10-22 09:11:40 INFO     turn - 348, orders - [[(7, 11), 'c_50']], solution - Optimal
+2021-10-22 09:11:41 INFO     turn - 349, orders - [], solution - Optimal
+2021-10-22 09:11:42 INFO     turn - 350, orders - [], solution - Optimal
+2021-10-22 09:11:42 INFO     turn - 351, orders - [], solution - Optimal
+2021-10-22 09:11:43 INFO     turn - 352, orders - [], solution - Optimal
+2021-10-22 09:11:44 INFO     turn - 353, orders - [], solution - Optimal
+2021-10-22 09:11:45 INFO     turn - 354, orders - [], solution - Optimal
+2021-10-22 09:11:46 INFO     turn - 355, orders - [], solution - Optimal
+2021-10-22 09:11:47 INFO     turn - 356, orders - [], solution - Optimal
+2021-10-22 09:11:48 INFO     turn - 357, orders - [], solution - Optimal
+2021-10-22 09:11:49 INFO     turn - 358, orders - [], solution - Optimal
+2021-10-22 09:11:50 INFO     turn - 359, orders - [], solution - Optimal
+
+2021-10-22 09:11:33 INFO     Route_6_3: 0.0
+2021-10-22 09:11:33 INFO     Route_7_0: 0.0
+2021-10-22 09:11:33 INFO     Route_7_1: 0.0
+2021-10-22 09:11:33 INFO     Route_7_2: 0.0
+2021-10-22 09:11:33 INFO     Route_7_3: 0.0
+2021-10-22 09:11:33 INFO     Route_8_0: 0.0
+2021-10-22 09:11:33 INFO     Route_8_1: 0.0
+2021-10-22 09:11:33 INFO     Route_8_2: 0.0
+2021-10-22 09:11:33 INFO     Route_8_3: 0.0
+2021-10-22 09:11:33 INFO     Route_9_0: 0.0
+2021-10-22 09:11:33 INFO     Route_9_1: 0.0
+2021-10-22 09:11:33 INFO     Route_9_2: 0.0
+2021-10-22 09:11:33 INFO     Route_9_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_0_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_0_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_0_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_0_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_1_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_2_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_3_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_3_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_3_2: 1.0
+2021-10-22 09:11:33 INFO     Route_y_3_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_4_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_4_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_4_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_4_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_5_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_5_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_5_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_5_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_6_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_6_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_6_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_6_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_7_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_7_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_7_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_7_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_8_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_8_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_8_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_8_3: 0.0
+2021-10-22 09:11:33 INFO     Route_y_9_0: 0.0
+2021-10-22 09:11:33 INFO     Route_y_9_1: 0.0
+2021-10-22 09:11:33 INFO     Route_y_9_2: 0.0
+2021-10-22 09:11:33 INFO     Route_y_9_3: 0.0
+2021-10-22 09:11:34 INFO     turn - 341, orders - [[(30, 23), 'c_39'], [(31, 24), 'c_39'], [(31, 30), 'c_39']], solution - Optimal
+2021-10-22 09:11:34 INFO     turn - 342, orders - [[(30, 24), 'c_39'], [(31, 25), 'c_39'], [(31, 29), 'c_39']], solution - Optimal
+2021-10-22 09:11:35 INFO     turn - 343, orders - [[(30, 24), 'c_39'], [(31, 25), 'c_39'], [(31, 29), 'c_39']], solution - Optimal
+2021-10-22 09:11:36 INFO     turn - 344, orders - [[(31, 14), 'c_48'], [(30, 25), 'c_39']], solution - Optimal
+2021-10-22 09:11:37 INFO     turn - 345, orders - [[(31, 15), 'c_48'], [(30, 25), 'c_39']], solution - Optimal
+2021-10-22 09:11:38 INFO     turn - 346, orders - [[(31, 15), 'c_48']], solution - Optimal
+2021-10-22 09:11:39 INFO     turn - 347, orders - [[(31, 16), 'c_48']], solution - Optimal
+2021-10-22 09:11:40 INFO     turn - 348, orders - [[(31, 16), 'c_48']], solution - Optimal
+2021-10-22 09:11:41 INFO     turn - 349, orders - [], solution - Optimal
+2021-10-22 09:11:42 INFO     turn - 350, orders - [], solution - Optimal
+2021-10-22 09:11:43 INFO     turn - 351, orders - [], solution - Optimal
+2021-10-22 09:11:43 INFO     turn - 352, orders - [], solution - Optimal
+2021-10-22 09:11:44 INFO     turn - 353, orders - [], solution - Optimal
+2021-10-22 09:11:45 INFO     turn - 354, orders - [], solution - Optimal
+2021-10-22 09:11:46 INFO     turn - 355, orders - [], solution - Optimal
+2021-10-22 09:11:47 INFO     turn - 356, orders - [], solution - Optimal
+2021-10-22 09:11:48 INFO     turn - 357, orders - [], solution - Optimal
+2021-10-22 09:11:49 INFO     turn - 358, orders - [], solution - Optimal
+2021-10-22 09:11:50 INFO     turn - 359, orders - [], solution - Optimal
